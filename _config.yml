@@ -62,3 +62,6 @@ collections:
   notes:
     output: true
     permalink: /notes/:year/:month/:title/
+
+# Markdown specs
+markdown: kramdown
