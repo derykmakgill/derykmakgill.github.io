@@ -241,6 +241,62 @@ In an article translated on Medium, the miners argue:
 
 >If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
 
+#### 15 June 2015
+
+Bitcoin.org introduces an official ['position on hard-forks,'](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894) which meant it would not promote XT.
+
+>Bitcoin.org will not promote software or services that will leave the previous consensus because of a contentious hard fork attempt.
+
+The move has support from Theymos, Cobra, Greg Maxwell, Peter Todd, Luke Dashjr, and others according to the Github thread.
+
+![Position on Hard Forks](https://cloud.githubusercontent.com/assets/61096/8162837/d2c9b502-134d-11e5-9a8b-27c65c0e0356.png)
+
+Developer Mike Hearn strongly cririsizes this as a move [towards centraliziation and thought control.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112121007)
+
+>This is very disappointing David. You want to ensure new users don't learn about Bitcoin XT. Why not just say that outright?
+>
+>Your position is wrong and will just reduce bitcoin.org's utility as a place to learn important information.
+>
+>What's more, you are inherently supporting a status quo in which a tiny number of people can veto any change to Bitcoin regardless of how widely supported it is by the rest of the community. That's not decentralisation. And it is ultimately far more dangerous to Bitcoin. If you try and shut down the only method the community has to reject the decisions of this tiny group, you're effectively dooming the project to the whims of whoever happened to be around early on in the project and ended up with commit access.
+>
+>However, if you really want to "pick a side" in this debate like that, then given the wording of your policy if a >1mb chain wins you will have to replace Bitcoin Core completely and not mention it anywhere, as at that point, it would be the implementation leaving the consensus by attempting to produce a contentious hard fork (the 1mb only chain). So are you sure you thought this through? Are you ready for that pull request, if one day it comes?
+
+Will Binns writes that this move will effectively [sway public opinion towards one side of the debate.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112123722)
+
+>Bitcoin.org should try to say as non-bias as possible in the midst of publicly debated issues. Hundreds of people, if not thousands, are coming to this site every day, many of which are new users learning about Bitcoin for the first time. For existing users in the space, this website is also an incredible resource in most cases.
+>
+>It seems like this post would be in an effort to sway public opinion more-so than anything else. It doesn't provide a complete context nor link to a wider array of information about the underlying issues it references so the reader can form their own opinion - it comes across as forcing a biased one.
+
+Mike Hearn comments again that the clever wording in this policy—"previous consensus—means that [almost all the major payment processors, exchanges, and wallets would need to be deleted](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112124088) in order to be consistent.
+
+>Rereading the policy, there's one more reason this policy is suicide - it says you will delist any wallet or service that announces it will operate on the other side of the "previous consensus".
+>
+>Currently every single wallet bar GreenAddress that we've polled has told us they support bigger blocks.
+>
+>Additionally, every major payment processor we've talked to has also said that.
+>
+>Plus the major exchanges.
+>
+>So to be consistent with this policy you will have to delete every wallet and all major services (except GreenAddress) from the website. This would eliminate bitcoin.org as a useful place to learn about Bitcoin products and services, which is one of the key functions of the site!
+
+He also correctly points out that raising the block size was always Satoshi's plan.
+
+>I understand you are concerned about the notion of a contentious hard fork. I think you're wrong about the possible consequences though. It should be clear from the block chain when the change has reached a sufficient amount of mining power and at that point there would be plenty of time for services to upgrade before the fork actually happens. Nobody should lose any money and nobody should feel disenfranchised: they can just switch to the winning chain and carry on. They can always sell their coins before or after if they really believe that the plan Satoshi had all along is so bad.
+
+After some back and forth, Mike concludes [the policy is entirely abitrary,](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112136250) that most people support raising the blocksize including some Blockstream employees, and that not doing so will harm Bitcoin.
+
+>Ah, so your policy is entirely arbitrary then.
+>
+>I can as well argue that in fact this situation is not contentious at all - as I said above, all major players agree on the need for larger blocks, indeed, even some Blockstream employees do (or say they do). It's really just a tiny number of people holding up progress at this point. So if you are going to decide that my definition of contentious is wrong and yours is right, just because "it's easy to say", then why have a policy at all? Why not just admit it's your opinion?
+>
+>Look. I don't mean to be antagonistic. I realise you are attempting to avoid harm to Bitcoin. But remember why Gavin and I are doing this - if the fork does not happen Bitcoin will suffer. You see this as some kind of one-sided deal: if a fork happens it might be bad and hurt Bitcoin, but if it doesn't happen there's no problem!
+>
+>I'm the developer of the first and still most widely used SPV wallets. Aaron Voisine is the developer of the most widely used SPV wallet on iOS. Both of us have reached the same conclusion about what will happen if capacity is not raised: it will hurt Bitcoin, a lot. Many others in the community have also reached that conclusion.
+>
+>By backing stasis you are not backing stability, or helping preserve Bitcoin's value. You are not taking a principled stand for a better development process. You are instead joining up with those who want to drive the network off a cliff. It is not bitcoin.org's place to make such decisions. Please reconsider this policy.
+
+The issue is merged on Github and the page goes live the following day.
+
 #### 13 August 2015
 
 /u/aminok has his post [(archive)](https://archive.is/E75Cx#selection-1969.95-1969.299) deleted, in which he asked the mods: “please don’t try to impose your will on the Bitcoin community.” 
