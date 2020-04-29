@@ -622,6 +622,10 @@ In the postscript, he says that r/Bitcoin is heavily censoring content about rai
 
 >There continues to be rampant censorship on https://www.reddit.com/r/bitcoin regarding this debate, which is unfortunate. I continue to encourage everyone to move to https://www.reddit.com/r/btc as an alternative that is censorship free. 
 
+The post on r/Bitcoin was very popular and received 86% upvotes. Using Removeddit we can see that over [7% of the comments were deleted by moderators.](https://removeddit.com/r/Bitcoin/comments/48zhos/what_happened_at_the_satoshi_roundtable/)
+
+One deleted comment reads ["what could go wrong if Core said, lets HF to 2MB?"](https://removeddit.com/r/Bitcoin/comments/48zhos/_/d0nz17a/)
+
 #### 09 May 2016
 
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
