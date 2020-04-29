@@ -681,6 +681,21 @@ By running an alternate implementation, such as Bitcoin Unlimited or Bitcoin Cla
 >
 >ViaBTC
 
+#### 05 March 2017
+
+XO.1, an Australian startup building a blockchain-based election platform, announced it would [“stress-test” the blockchain starting March 6 GMT.](https://np.reddit.com/r/Bitcoin/comments/5xkvc1/psa_were_running_a_stress_test_of_our_blockchain/)
+
+Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr replies on Reddit that this is [criminal and he hopes they are prosecuted.](https://np.reddit.com/r/Bitcoin/comments/5xkvc1/psa_were_running_a_stress_test_of_our_blockchain/deiv83c/)
+
+>Please don't spam the Bitcoin network. Doesn't Sydney have criminal laws against DoS attacks like this? I hope you get prosecuted if you go forward with it.
+
+In the same thread, he also comments that this is an attack on Bitcoin and that he has [reported them to legal authorities.](https://np.reddit.com/r/Bitcoin/comments/5xkvc1/psa_were_running_a_stress_test_of_our_blockchain/deizcgq/)
+
+>It'd likely be under cyber-crime laws (it's a DoS attack), not spam laws. I've reported you to the Australian cyber-crime agency. Hopefully they will act to stop you before your attack.
+
+An outraged Redditor points out that the [Cypherpunks have fallen](https://np.reddit.com/r/Bitcoin/comments/5xkvc1/psa_were_running_a_stress_test_of_our_blockchain/deji0xc/) far if this is what they're doing. [Luke responds that he is a monarchist and theocrat.](https://np.reddit.com/r/Bitcoin/comments/5xkvc1/psa_were_running_a_stress_test_of_our_blockchain/dejn6sy/)
+
+>Not everyone involved in Bitcoin is cypherpunk. I advocate monarchy, and religion-based civil laws. I condemn capitalism, communism, democracy, separation of Church and State, anarchy/"volunteerism", and libertarianism.
 
 #### 14 March 2017
 
