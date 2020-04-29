@@ -635,7 +635,7 @@ The [inventors listed](https://www.reddit.com/r/btc/comments/6uoq7b/blockstreamb
 
 #### 01 July 2016
 
-Bitcoin.org co-owner 'Cobra' posts on Github that he wants to update the Bitcoin whitepaper because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
+Bitcoin.org co-owner 'Cobra' posts on Github that [he wants to update the Bitcoin whitepaper](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issue-163491953) because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
 
 >I've been noticing that the Bitcoin paper at https://bitcoin.org/bitcoin.pdf is getting a lot of traffic (mainly from people searching for "bitcoin paper", or probably seeing it cited by other papers). Almost all the people reading the paper are probably reading it for the first time, and using it as a learning resource. However since the paper is so outdated, I believe it doesn't do a good job anymore of giving people a firm understanding of Bitcoin (at least the modern version). There is no mention of things like pools, and the Privacy and SPV sections could probably be updated.
 >
