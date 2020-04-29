@@ -618,6 +618,10 @@ He concludes that Bitcoin will ultimately need an entirely new developer team th
 
 >At this point it would be irresponsible not to upgrade to Bitcoin Classic. We need to solve the immediate scaling issue we are facing.
 
+In the postscript, he says that r/Bitcoin is heavily censoring content about raising the block size.
+
+>There continues to be rampant censorship on https://www.reddit.com/r/bitcoin regarding this debate, which is unfortunate. I continue to encourage everyone to move to https://www.reddit.com/r/btc as an alternative that is censorship free. 
+
 #### 09 May 2016
 
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
