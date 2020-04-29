@@ -67,6 +67,10 @@ as well as costs of better communicating product quality versus price tradeoffs
 in the user interface, are usually more important ob jectives for technological
 cost reduction than conserving on computational or network resources.
 
+#### ~ 2002
+
+Sometime in 2002 (exact date unknown), Nick Szabo publishes [*Shelling Out -- The Origins of Money.*](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/shell.html) The paper presents a theory of the beginnings of money that would later come to dominate part of the future Bitcoin community.
+
 #### 22 January 2006
 
 Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia.](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/)
