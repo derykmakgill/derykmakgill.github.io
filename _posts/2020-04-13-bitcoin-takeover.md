@@ -710,6 +710,16 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >
 >That is why we are taking steps to implement a defensive patent strategy.
 
+#### 19 November 2016
+
+Bitcoin.com CEO Roger Ver—one of the earliest Bitcoin investors and the first major investor in Bitcoin companies—says the [censorship in r/Bitcoin is holding Bitcoin back.](https://twitter.com/rogerkver/status/800098062798503936)
+
+>When /r/bitcoin started the censorship, they prevented honest discussion, split the community, and dramatically slowed down Bitcoin's progress
+
+Luke Dashjr replies that [there is no censorship](https://np.reddit.com/r/btc/comments/5duugm/when_rbitcoin_started_the_censorship_they/da7kw0d/) and in the same post admits there is censorship.
+
+>Except you're missing the point that there really isn't any censorship. It's just in your head, because you can't get over the fact that you posted something inappropriate once (or however many times) that was justifiable to remove as off-topic.
+
 #### 19 January 2017
 
 Longtime Bitcoin entrerprenuer Charlie Shrem complains that [high fees are hindering Bitcoin's growth.](https://twitter.com/CharlieShrem/status/822189031954022401)
