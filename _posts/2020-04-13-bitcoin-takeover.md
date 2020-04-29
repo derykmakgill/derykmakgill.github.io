@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Bitcoin Scaling Debate — An Annotated Timeline
-permalink: bitcoin-takover
+permalink: takeover
 tags:
 - bitcoin
 - research
