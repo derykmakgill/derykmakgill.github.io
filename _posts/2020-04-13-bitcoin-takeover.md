@@ -583,6 +583,41 @@ Mosaic Ventures posts an article about their participation in the investment rou
 
 >The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
 
+#### 05 March 2016
+
+Coinbase CEO Brian Armstrong says the [Core developers may be the biggest risk to Bitcoin](https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf#.qaggpgms9) in an article about the Satoshi Roundtable.
+
+>In my opinion, perhaps the biggest risk in bitcoin right now is, ironically, one of the things that has helped it the most in the past: the bitcoin core developers.
+
+He writes about the stubborness, immaturity and technocratic agenda and beliefs of the developers on display at the roundtable. 
+
+>The conversations initially focused on various compromises to kick the can down the road on scalability. But as the conversations went on, I became less and less concerned about what short term solution we pick because I realized we all had a much bigger problem: the systemic risk to bitcoin if Bitcoin Core was the only team working on bitcoin.
+The core team contains some very high IQ people, but there are some things which I find very concerning about them as a team after spending some time with them last weekend.
+>
+>1. Some of them show very poor communication skills or a lack of maturity — this has hurt bitcoin’s ability to bring new protocol developers into the space.
+>
+>2. They prefer ‘perfect’ solutions to ‘good enough’. And if no perfect solution exists they seem ok with inaction, even if that puts bitcoin at risk.
+>
+>3. They seem to have a strong belief that bitcoin will not be able to scale long term, and any block size increase is a slippery slope to a future that they are unwilling to allow.
+>
+>Even though core says they are ok with a hard fork to 2MB (they have it on their own roadmap, just very far in the future), they refuse to prioritize it. They prefer to withhold something that could help the network now, because they don’t trust the community to make educated decisions in the future. They view themselves as the central planners of the network, and protectors of the people. They seem ok with watching bitcoin fail, as long as they don’t compromise on their principles.
+
+According to Armstrong, it was both "negligent" and revealing of the Core team's "motivations" for them to allow the blocks to become so congested.
+
+>The network today, with 70% of blocks full, is already experiencing congestion issues and backlogs. Any reduction in hashing power will exacerbate the problem.
+>
+>The fact that bitcoin core has allowed the network to reach this point is incredibly negligent, and I think says a lot about their motivations and competency as a team. There is no reason to roll the dice and see if this failure scenario comes to fruition.
+
+Armstrong then argues that Bitcoin should upgrade to 2mb block sizes as soon as possible.
+
+>The first step is that we need to do an immediate upgrade to 2MB blocks. This is the most realistic short term scaling solution that will buy us time. My belief is that we will either be doing this upgrade now (when there is sufficient lead time for everyone to prepare), or we will be doing it in the midst of an emergency down the road. It is not a matter of if, but when. 
+
+He concludes that Bitcoin will ultimately need an entirely new developer team that is willing to work with the community to scale rather than make technocratic decisions for everyone and that it is irresponsible not to run Bitcoin Classic.
+
+>Long term, we need to form a new team to work on the bitcoin protocol. A team that is welcoming of new developers to the community, willing to make reasonable trade offs, and a team that will help the protocol continue to scale.
+
+>At this point it would be irresponsible not to upgrade to Bitcoin Classic. We need to solve the immediate scaling issue we are facing.
+
 #### 09 May 2016
 
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
