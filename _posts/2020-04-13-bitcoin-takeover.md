@@ -1105,6 +1105,8 @@ Former co-founder of Blockstrearm Matt Corallo tweets that [this is a lie](https
 
 >Uhhhh, I don't really know how to describe this use of the word "trustless" except "lie". Maybe someone is trying to redefine the word?
 
+Bitcoin.org Co-owner Cobra replies that it is ["very dangerous" for him to call out Blockstream like that.](https://twitter.com/CobraBitcoin/status/1060175987277729792)
+
 #### 26 December 2018
 
 Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasensteiner's arrest and [tags the SEC on Twitter.](https://twitter.com/excellion/status/1078051212052684800)
