@@ -161,6 +161,50 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 >
 >First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
 
+#### 05 October 2014
+
+A user reported an issue on the Gentoo bug forum that a version of [bitcoind (the official reference client for interacting with the bitcoin network) distributed with Gentoo was blocking particular bitcoin addresses.](https://bugs.gentoo.org/524512)
+
+The posting showed Gentoo output blocking a transaction with a SatoshiDice address, which had been blacklisted, and complains that Luke Dashjr is responsible.
+
+>Enabling the stupidmoralnazi aka ljr [Luke Dashjr] use flag results in errors like these:
+>
+>2014-10-05 11:38:09 ERROR: AcceptToMemoryPool : ignoring transaction                289673d37df1a709829b3f3ea7b8549703f4251f26f5721863aacbccc47b95a9 with blacklisted output (SatoshiDice)
+>
+>A currency is worthless the moment you declare that you can use it to buy a bible but not the korean because we don't like that one.
+
+Luke replies "no sign anything is actually broken here. Looks like just a troll. Status: INVALID or WORKSFORME?”
+
+It turned out that Luke had quietly blacklisted the known addresses of several of the highest transaction-volume businesses in Bitcoin. At the time SatoshiDice in particular [was the most popular Bitcoin gambling site in the world.](https://www.coindesk.com/bitcoin-company-acquisitions-begin-gambling-site-satoshidice-sells-for-11-5m-126315-btc)
+
+The [relevant part of the code](https://pastebin.com/4xu8avtZ) is below:
+	
+```
++static struct BlacklistEntry BlacklistedPrefixes[] = {
++    {0x946cb2e0, 0x946cb2e0, "Mastercoin"},
++    {0x06f1b600, 0x06f1b6ff, "SatoshiDice"},
++    {0x74db3700, 0x74db59ff, "BetCoin Dice"},
++    {0xc4c5d791, 0xc4c5d791, "CHBS"},  // 1JwSSubhmg6iPtRjtyqhUYYH7bZg3Lfy1T
++    {0x434e5452, 0x434e5452, "Counterparty"},
++    {0x069532d8, 0x069532da, "SatoshiBones"},
++    {0xda5dde84, 0xda5dde94, "Lucky Bit"},
++};
+```
+
+In the later discussion on the bug forum, Dashjr called the businesses a [“DDoS attack on the bitcoin network“.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c7)
+
+Another user rightly points out that this is nonsense and that the patch is censoring Bitcoin and [changing how users expect it to work.](https://bugs.gentoo.org/524512#c8)
+
+>No, it's really not a DoS attack.
+>
+>There isn't a single reputable journalist or non-fringe blogger who refers to the popularity of the business model of satoshi dice and the other blocked businesses as a "DoS attack"
+>
+>There is nothing protocol-wise which is invalid about the transactions coming from the sources which are being blacklisted by this patch...
+
+>... this patch is actively censoring and changing the behaviors of bitcoin to no longer act the usual way as defined by the the official non-patched defaults.
+
+Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c46)
+
 #### 23 October 2014
 
 Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
