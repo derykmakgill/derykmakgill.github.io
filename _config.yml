@@ -3,7 +3,7 @@ author:
   name:  Deryk Makgill
   email: deryk@makgill.ch
 description: > # this means to ignore newlines until "show_excerpts:"
-Essays, research and marginalia.
+Essays, research and marginalia
   
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: pretty
