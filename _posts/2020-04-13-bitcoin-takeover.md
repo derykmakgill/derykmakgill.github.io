@@ -425,6 +425,15 @@ The response was largely outrage, the most [popular reply](https://www.reddit.co
 
 Indeed only a week after his removal, u/hardleft121 wrote that ['Gavin and Mike are right'](https://www.reddit.com/r/Bitcoin/comments/3jgtjl/i_support_bip101/cuqdm54/?context=3) in [BIP 101,](https://github.com/bitcoin/bips/blob/master/bip-0101.mediawiki) a proposal to raise the Bitcoin block size. 
 
+#### The same day
+
+The Bitcoin Foundation tweets a [thank-you to Blockstream](https://twitter.com/BTCFoundation/status/639856958317707264?s=20) for funding more Bitcoin Core developers than anyone.
+
+>Today’s shoutout is to 
+@Blockstream who has funded more core dev than anyone, including us.
+
+
+
 #### 05 October 2015
 
 /u/raisethelimit is [banned permanentely](https://www.reddit.com/r/bitcoinxt/comments/3njzfz/ive_been_banned_too/cvoqzof?utm_source=share&utm_medium=web2x) from r/bitcoin after asking Greg Maxwell to [stop posting in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/3nhq5a/deprecating_bitcoin_core_visualizing_the/cvoq5m4?utm_source=share&utm_medium=web2x)
@@ -488,6 +497,12 @@ Longtime Bitcoiner Olivier Janssens says [Coinbase is being attacked](https://tw
 >@brian_armstrong Coinbase wallet removed from http://bitcoin.org because you dared to speak up against CoreDev
 
 Despite the unpopularity of the issue, it is committed the following day and Coinbase is removed from Bitcoin.org.
+
+#### The same day
+
+[Luke Dashjr says that there is no censorship on r/Bitcoin.](https://np.reddit.com/r/Bitcoin/comments/3ycizh/decentralizing_development_can_we_make_bitcoins/cycb6zi/)
+
+>There is also no "censorship issue" - that's a bogus accusation against /u/theymos (who is not a dev) because altcoiners want to trick people into thinking their altcoin is Bitcoin in Bitcoin communities, and altcoins aren't even allowed here as a rule.
 
 #### 28 December 2015. 
 
@@ -626,6 +641,12 @@ The post on r/Bitcoin was very popular and received 86% upvotes. Using Removeddi
 
 One deleted comment reads ["what could go wrong if Core said, lets HF to 2MB?"](https://removeddit.com/r/Bitcoin/comments/48zhos/_/d0nz17a/)
 
+#### 20 March 2016
+
+Luke Dashjr writes that the [Core devs know more about Bitcoin than Satoshi did.](https://www.reddit.com/r/btc/comments/4b7rpw/there_is_never_such_thing_as_too_much_demand/d16x5k3/)
+
+>I would say the majority of the Core dev team, including myself, are certainly smarter today with regard to Bitcoin, than Satoshi was in 2010. We've had 6 more years of R&D since then.
+
 #### 09 May 2016
 
 Blockstream files a patent for [*transferring ledger assets between blockchains via pegged sidechains.*](https://patents.google.com/patent/US20160330034A1/en)
@@ -688,6 +709,12 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >Ensuring that permissionless innovation continues to be the driving force in our space requires an approach that not only accounts for the increasingly complex realities of today but also of tomorrow.
 >
 >That is why we are taking steps to implement a defensive patent strategy.
+
+#### 19 January 2017
+
+Longtime Bitcoin entrerprenuer Charlie Shrem complains that [high fees are hindering Bitcoin's growth.](https://twitter.com/CharlieShrem/status/822189031954022401)
+
+>If we don't implement bigger blocks ASAP, Paypal will be cheaper than #bitcoin. I already pay a few dollars per tx. Stop hindering growth.
 
 #### 26 February 2017
 
