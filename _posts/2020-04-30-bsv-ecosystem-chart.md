@@ -96,13 +96,13 @@ I can't find any information on whether or not this is still being developed or 
 
 It's a neat proof-of-concept. I wish I could find more information. 
 
-#### Zakat Network
+### Zakat Network
 
 Zakat is an annual obligatory charitable payment for Muslims, as I understand it. Is this some kind of way to allow Muslims to pay this with Bitcoin SV?
 
 I wouldn't know because I can't find ANY information.
 
-#### BitcastSV
+### BitcastSV
 
 I already know about BitcastSV because their Twitter account has liked some things I've posted recently. According to their Twitter description:
 
