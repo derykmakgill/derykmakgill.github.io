@@ -114,3 +114,4 @@ I guess I've got to listen to an episode...
 
 #### Conclusion
 
+All that said...it's a podcast. I don't really see this as evidence of innovation in BSV. It's more like an add-on and if I were making a chart of the Bitcoin SV Ecosystem, I wouldn't list it, especially one that has only done two episodes in three months.
