@@ -8,7 +8,7 @@ The BSV Ecosystem Chart as of April 30, 2020 records 414 total projects develope
 
 I've seen this chart shared regularly for months as evidence of all the innovation and development happening in BSV, but I've never seriously taken a look at the projects it lists. This article reviews all the projects and attempts to assess the accuracy of the report.
 
-### BSV Kanban
+### 1. BSV Kanban
 
 It took me a long time to find BSV Kanban. Search queries on Twitter for ['BSV Kanban'](https://twitter.com/search?q=bsv%20kanban&src=typed_query&f=live) and ['Bitcoin SV Kanban'](https://twitter.com/search?q=bitcoin%20sv%20kanban&src=typed_query&f=live) don't return anything useful.
 
@@ -18,7 +18,7 @@ I tracked it down on [Github](https://github.com/armedi/bsv-kanban). It hasn't b
 
 I can't find anything else about this project and can't draw any other conclusions than that it is an inactive learning project. 
 
-### Fullcycle
+### 2. Fullcycle
 
 Several Twitter queries don't show anything. A [dead forum link](http://forum.maars.com/viewtopic.php?t=15) I find on Google gives me some clue that it's related to mining, from Google meta data.
 
@@ -34,7 +34,7 @@ The README says it is a monitoring and management system for Bitcoin mining that
 
 It's been 2 years since the last Github commit, which is not necessarily a relevant metric, but I can't find any other information about who is using this project or whether or not it is active.
 
-### Wikisv
+### 3. Wikisv
 
 ~~This is easy because I was at CoinGeek London [thanks to the generosity of Calvin and the help of Ed, and team] when this was announced. ~~
 
@@ -46,7 +46,7 @@ One user on [Twitter writes:](https://twitter.com/veganbeefcake/status/120474232
 
 I cannot find any useful information on Wikisv. That doesn't mean it doesn't exist, but I don't know where else to look.
 
-### Tocial Chat
+### 4. Tocial Chat
 
 Tocial is a Chinese app described as the ['Most Popular Blockchain AGC Photo Social Platform.'](https://tocial.io/) There is not much info on the website and the app links take me to the Apple TestFlight service for beta testers.
 
@@ -82,7 +82,7 @@ The content is also subpar at best. The women are attractive but I can't imagine
 
 It's a real project. It has a lot of work to do but there's actually some potential here.
 
-### 9k nodes
+### 5. 9k nodes
 
 Once again, it took me a while to find information on this project. According to a video on [The Bitcoin Assocation YouTube channel](https://youtu.be/3Orxl1rKx8Y?t=250), it's a 2d block explorer that shows information in a graph format.
 
@@ -102,7 +102,7 @@ I can't find any information on whether or not this is still being developed or 
 
 It's a neat proof-of-concept. I wish I could find more information. 
 
-### Zakat Network
+### 6. Zakat Network
 
 Zakat is an annual obligatory charitable payment for Muslims, as I understand it. Is this some kind of way to allow Muslims to pay this with Bitcoin SV?
 
@@ -110,7 +110,7 @@ Zakat is an annual obligatory charitable payment for Muslims, as I understand it
 
 I wouldn't know because I can't find ANY information.
 
-### BitcastSV
+### 7. BitcastSV
 
 I already know about BitcastSV because their Twitter account has liked some things I've posted recently. According to their Twitter description:
 
