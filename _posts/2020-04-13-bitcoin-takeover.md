@@ -219,11 +219,30 @@ Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/sh
 
 A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
 
+#### 22 October 2014
+
+[*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
+
+>Because sidechains are still block chains independent of bitcoin, they are free to experiment with new transaction designs, trust models, economic models, asset issuance semantics, or cryptographic features.
+
+The paper is co-authored by Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille.
+
+[Greg Maxwell writes in an AMA](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/clhoxvu/) about the paper that he is looking at sidechains as a way to scale Bitcoin without raising the blocksize.
+
+> ...finding additional alternative ways of scaling Bitcoin is what stared me working on sidechains...
+
 #### 23 October 2014
 
 Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
 
 >...we propose technology to enable new cryptocurrency networks that do not need new cryptocurrencies (see our sidechains whitepaper for more information, as well as read an interview with the Wall Street Journal BitBeat). Delivering on this vision will require continued investment in and cooperation with the Bitcoin ecosystem as a whole, along with the full-time support of many people with broad and specialized backgrounds. 
+
+The co-founders are listed as: 	
+Adam Back, Gregory Maxwell, Pieter Wuille, Matt Corallo, Mark Friedenbach, Jorge Timón , Austin Hill, Jonathan Wilkins, Francesca Hall, and Alex Fowler.
+
+Greg Maxwell is asked in an AMA about the profit-model of Blockstream and [gives a non-specific answer.](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/clhoo7d/)
+
+>Right now our focus is on building out the base infrastructure so that there is actually a place to build the revenue producing business we'd like to have, and then we hope to circulate that back into building more good technology.
 
 #### 06 November 2014
 
