@@ -985,6 +985,22 @@ The proposal is heavily downvoted on Github. Longtime Bitcoin entrepreneur Erik 
 
 >Glad to see many of the rational comments on https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824 regarding http://bitcoin.org's highly political message today.
 
+#### 03 October 2017
+
+Adam Back writes that the companies trying to 'takeover' Bitcoin by raising the block size are ['enemies' of Bitcoin](https://twitter.com/adam3us/status/915232292825698305?s=20) conducting a corporate takeover.
+
+OB1 Cofounder points out that [Adam is the CEO of Blockstream,](https://twitter.com/Satoshi_N_/status/915459435203584000) one of the most funded companies in Bitcoin.
+
+The founder of Blockchain.com, Peter Smith, says that he and others on Adam's enemy list [have spent years growing Bitcoin adoption before it was ever financially or socially profitable.](https://twitter.com/OneMorePeter/status/915508207199670272?s=20)
+
+>We've dedicated our lives to building bitcoin products, introduced millions to bitcoin, evangelized, long before it was cool. Enemies? 
+
+Bitcoin Core supporter Trace Mayer replies some days later that [anyone who supports raising the block size with Segwit 2x is an enemy.](https://twitter.com/TraceMayer/status/917770915731181574?s=20)
+
+>Past work great but #Bitcoin ethos about monetary sovereignty & Segwit2X supporters are enemies of that. We have a name: Benedict Arnold. 🚩📢
+
+He tags Gavin Andresen, Jihan Wu, Coinbase, Xapo, Jeff Garzik and others.
+
 #### 05 October 2017
 
 Despite the unpopularity of Bitcoin.org's Segwit Safety Alert proposal, they [post on their blog](https://web.archive.org/web/20171028193101/https://bitcoin.org/en/posts/denounce-segwit2x) their intentions to activate the alert in the coming days, along with a blacklist of companies that includes Coinbase, BitPay, Bitcoin.com, Blockchain.com, BTC.com and more. 
