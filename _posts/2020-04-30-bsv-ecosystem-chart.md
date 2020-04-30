@@ -118,8 +118,173 @@ I already know about BitcastSV because their Twitter account has liked some thin
 
 They launched three months ago and have recorded [two episodes on their YouTube channel.](https://www.youtube.com/channel/UCiwOHm0LnbNO1WdU6wxbPVA)
 
-I guess I've got to listen to an episode...
+I guess I've got to listen to an [episode...](https://youtu.be/fTVKj1Y2HR0)
 
 #### Conclusion
 
+They have Daniel Krawisz on so the episode is solid. **More people should listen to Daniel.** Daniel rightfully points out that 'speculation' doesn't deserve a bad name. He says a lot of other intelligent things too. And the editing is good!
+
+>The people in BTC thinks that they will succeed by doing what the experts tell them...but that doesn't make sense because if anyone knew what to do to make a lot of money, he wouldn't tell you.
+
 All that said...it's a podcast. I don't really see this as evidence of innovation in BSV. It's more like an add-on and if I were making a chart of the Bitcoin SV Ecosystem, I wouldn't list it, especially one that has only done two episodes in three months.
+
+### 8. ImmortalSV
+
+[ImmortalSV is a web archiving tool](https://immortalsv.com/)that is supposed to take screenshots of websites and archive them on the BSV chain. The idea is to be more immutable than Archive.Today and the Internet Archive.
+
+I have mixed feelings about archive services... on the one hand, they prevent a lot of important information and work from disappearing. On the other hand, I've personally experienced stalkers abusing the archive service with false information. Adding immutability to that might empower them more.
+
+But I'm open to being convinced, and this evaluation is agnostic on the question.
+
+#### Testing it out
+
+I got several error messages and Cloudflare 504 timeouts. It's a neat interface and I know people who have used it successfully, but I tried several browsers and couldn't get it to work.
+
+>Error while fetching website, please try again or contact synfonaut
+
+#### Conclusion
+
+It's a legitimate proof-of-concept project that needs some reliability work.
+
+## 9. Sporstack
+
+[Sporstack](https://sporestack.com/) offers accountless, API-driven VPS hosting for Bitcoin, Bitcoin Cash, Bitcoin SV, and Monero.
+
+This is awesome. I'm sorry to say I'd never heard of it before. There's a lot you can do with it like spinning up servers for a day and running servers for projects that are...against the terms of service.
+
+Here's what they say on their about page.
+
+>Let's say you run a dark web ebook market. The ebooks are full of illegal wrongthink. You're on the run from the Feds and want this market to stay online no matter what. You design it to be self-healing and ephemeral, where your servers buy new ones when they detect their peers have been taken down. They get purchased from funds in the Monero wallet that customers pay into. The servers themselves are torified and don't know where they are. You can do that with SporeStack. You probably won't know how to and maybe only a thousand people in the country could pull it off, but it's doable.
+>
+>Or maybe you start a masternode hosting service and you configure the masternodes, but you want customers to pay for the servers themselves. You don't want to pay out of your own wallet. You can use SporeStack.
+>
+>Or maybe you want to spin up servers to run tests as part of your continuous integration. Or even, when you deploy code you get new servers to phase out the old ones. No upgrading, only replacement.
+>
+>Maybe you just want a server for a day, a month, whatever, and you don't mind that it's not the cheapest option. You feel happier knowing that a potato eating man was paid in the process of you renting a VPS.
+
+#### Testing it out
+
+I don't feel the need to try this one. It's legit.
+
+#### Conclusion
+
+I'm glad to see this project accepting BSV as one of several different currencies. It's not a BSV-specific project however and in fact BSV was one of the last currencies they added. To me, it'd be like saying Coinbase is part of the BSV ecosystem if they add BSV support.
+
+In a broad way, they are, but the chart definitely gives the impression that it is presenting projects that are unique to BSV, or at least primarily in support of BSV, and Sporestack isn't it.
+
+I also find it a little funny that given all the talk about legal compliance in BSV the chart lists a service that very clearly is trying to help at least some people skirt the law.
+
+## 10. My movies
+
+There's a Reddit post about My movies that says ["MyMovies - Signing a Hollywood actress with MoneyButton."](https://www.reddit.com/r/bitcoincashSV/comments/c7m8m4/mymovies_signing_a_hollywood_actress_with/) It links to a YouTube video but the account is [terminated.](https://www.youtube.com/watch?v=jjiiFkYSOXY)
+
+Another Reddit post says ["The Future of Streaming Media is on the BSV Bitcoin Blockchain"](https://www.reddit.com/r/bitcoincashSV/comments/c5zfs1/mymovies_the_future_of_streaming_media_is_on_the/) but it links to a deleted video as well.
+
+So far, nothing.
+
+I finally find an [article on Coingeek](https://coingeek.com/when-craig-wright-met-the-aliens/) about it that describes it as a fan-owned movie studio that helps you distribute your films on the blockchain?
+
+>Mymovies.us – a “decentralized development, finance, production and distribution movie studio ecosystem” or in short, “a fan-owned movie studio”.
+>
+>Mymovies invites people to fund, secure their rights as creators and distribute their films on the blockchain. Speaking from his home in Silicon Valley, Ted said the idea is to improve on the suggested movies which Netflix presents to its viewers by creating a strip of titles that you’d like to watch if they were made.
+
+## Testing it out
+
+[MyMovies.us](https://www.mymovies.us/) is the domain! The website looks like an eartly Geocities site or something and says that it is under construction. It also gives a little more info about their backstory.
+
+>THIS SITE IS UNDER CONSTRUCTION:
+MYMOVIES.US IS THE BITCOIN ASSOCIATION HACKATHON #1 SEMIFINALIST.
+WE ARE CURRENTLY DEVELOPING THE WORLD’S FIRST INTERACTIVE STREAMING MEDIA PLATFORM.
+THE FUTURE OF STREAMING MEDIA IS ON THE BSV BLOCKCHAIN.
+
+There are several movies listed as 'in-production' or 'in-development.'
+
+- Lord Timmy and the Mystery of the Last Master
+
+- The Image of the Beast and It Gave Life To
+
+- The Noob: It's Fun and Games Until Someone Gets Hurt
+
+- Night of the Chupacabbra II
+
+- In the Arena: The Joe Kapp Story
+
+There are more but you get the idea.
+
+There is one film that is listed as "streaming now." It's called Mon Blanc a Vendre.
+
+I click and it takes me to a page with a Money Button that says it is 10 cents to unlock. 
+
+It works! A play button appears after I swipe and I can play the movie. 
+
+#### Conclusion
+
+I have no desire whatsoever to watch this movie. It doesn't appear to be "streaming on the blockchain" as was advertised. It's just a paywall to a play button for a movie, which is fine, but that's much less than I expected.
+
+The website is scammy and outdated but there is indeed a movie for sale. I really don't know what to think about this? 
+
+It is actively being worked on? What value does this add to BSV?
+
+I don't know. I don't understand why this was listed.
+
+## 11. BlareSV
+
+This was an easy project to find. It appears to be by the same guy behind The BitcoinSV Channel (RIP YouTube). Here is how it is described on it's [website.](https://www.blaresv.com/)
+
+>BLARE is an innovative, maker-centric social platform for artists and content creators to upload, publish, distribute, price, and sell their exclusive digital content (music, videos, etc.) and physical merch (CD’s, vinyl, clothing, posters, sheet music, books, etc.) at any price to their fans, being paid instantly and fairly in Bitcoin or fiat.
+
+#### Testing it out
+
+I can't. It releases its beta version in June 2020 according to the site.
+
+#### Conclusion
+
+It looks like a neat idea.
+
+## 12. Gemscape
+
+The recently bearded Ryan X.Charles, who I've always respected, introduced me to this when he posted the other day on [Twitter.](https://twitter.com/ryanxcharles/status/1254815371091050503?s=20)
+
+>How can we make Money Button better? We rely on your feedback to guide our priorities. I am paying $5.00 per answer.
+
+Gemscape describes itself like this: 
+
+>Incentivizing feedback. Get thoughtful opinions on what matters to you.
+(Or earn BitCoin instantly)
+
+That's cool! I used to be a Quora power-user and this looks a lot better, at least in the basic idea.
+
+#### Testing it out
+
+I tried to use it the day I heard about it to answer Ryan's question, but it wouldn't work for me! I tried again today and was able to answer a question, which was really a survey with a series of questions.
+
+It paid me 13 cents for my answers at the end. Easy enough.
+
+#### Conclusion
+
+It's real and it's a neat proof-of-concept. I didn't notice any major problems. There's some real potential if they run it well and can get good content on it. As I always say with these kinds of sites, network effects are important and a lot of early content is really bad and off-putting. 
+
+I would probably NOT want to be in a business like this personally, but best of luck to the creators. They've definitely made something that could be useful.
+
+## 13. Memorygame
+
+I can't find anything on this project using Google or [Twitter queries.](https://twitter.com/search?q=memorygame%20bitcoin&src=typed_query&f=live)
+
+I try [BSVDevs.com](https://bsvdevs.com/) and can't find it there either.
+
+I really think it would be better to have a PDF report with LINKS to projects instead of a static image with a general name like 'Memorygame.' How am I supposed to find that?
+
+#### Conclusion
+
+I see no evidence this exists or ever existed.
+
+## 14. KwabaSV
+
+I found this easily! It's a simple web wallet. They're active on Twitter and the site is [live.](https://bico.media/b52572081e88233e6ab2ccfa5b8a44d1d969f18e10f25c3631ee4dd37703d41a#)
+
+You can also use the service to upload files (e,g mp3, mp4, pdf's) to the METANET.
+
+#### Conclusion
+
+It's real and it works. It's nothing revolutionary now but it's a nice proof-of-concept.
+
