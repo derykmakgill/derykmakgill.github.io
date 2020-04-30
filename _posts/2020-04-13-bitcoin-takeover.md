@@ -217,6 +217,8 @@ He later writes that [SatoshiDice is being punished for being too popular.](http
 
 Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c46)
 
+A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
+
 #### 23 October 2014
 
 Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
