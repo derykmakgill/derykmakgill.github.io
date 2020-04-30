@@ -773,7 +773,6 @@ Blockstream files a patent for [*transferring ledger assets between blockchains 
 
 The [inventors listed](https://www.reddit.com/r/btc/comments/6uoq7b/blockstreambitcoin_core_wants_to_force_everyone/) are Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timon and Pieter Wuille. Later this number is reduced to Greg Maxwell and Adam Back.
 
-
 #### 01 July 2016
 
 Bitcoin.org co-owner 'Cobra' posts on Github that [he wants to update the Bitcoin whitepaper](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issue-163491953) because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
