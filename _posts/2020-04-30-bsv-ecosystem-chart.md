@@ -14,6 +14,8 @@ It took me a long time to find BSV Kanban. Search queries on Twitter for ['BSV K
 
 I tracked it down on [Github](https://github.com/armedi/bsv-kanban). It hasn't been updated in 4-months and the README says "I made this app to learn how to store data to bsv using moneybutton."
 
+#### Conclusion
+
 I can't find anything else about this project and can't draw any other conclusions than that it is an inactive learning project. 
 
 ### Fullcycle
@@ -28,6 +30,8 @@ The README says it is a monitoring and management system for Bitcoin mining that
 
 ![Fullcycle](https://github.com/dfoderick/fullcycle/raw/master/images/FullCycleReact.png?raw=true)
 
+#### Conclusion
+
 It's been 2 years since the last Github commit, which is not necessarily a relevant metric, but I can't find any other information about who is using this project or whether or not it is active.
 
 ### Wikisv
@@ -38,7 +42,9 @@ I was wrong as the chart lists BitcoinWiki as well, which is the project I was t
 
 One user on [Twitter writes:](https://twitter.com/veganbeefcake/status/1204742328021331969?s=20) "I would happily donate a substantial amount of BSV towards a WikiSV as you described." 
 
-Other than that, I cannot find any information on Wikisv. That doesn't mean it doesn't exist, but I don't know where else to look.
+#### Conclusion
+
+I cannot find any useful information on Wikisv. That doesn't mean it doesn't exist, but I don't know where else to look.
 
 ### Tocial Chat
 
@@ -99,6 +105,8 @@ It's a neat proof-of-concept. I wish I could find more information.
 ### Zakat Network
 
 Zakat is an annual obligatory charitable payment for Muslims, as I understand it. Is this some kind of way to allow Muslims to pay this with Bitcoin SV?
+
+#### Conclusion
 
 I wouldn't know because I can't find ANY information.
 
