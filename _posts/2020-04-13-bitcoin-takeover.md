@@ -301,6 +301,12 @@ After some back and forth, Mike concludes [the policy is entirely abitrary,](htt
 
 The issue is merged on Github and the page goes live the following day.
 
+#### 20 June 2015
+
+In response to a post on r/Bitcoin about scaling Bitcoin by raising the size of the blocks in Bitcoin XT, Luke Dashjr comments that [Lightning Network does that.](https://np.reddit.com/r/Bitcoin/comments/3aieuj/gavin_andresens_block_size_increase_code_8mb_cap/csd88la/)
+
+At the time, the Lightning Network alpha wasn't even operational.
+
 #### 13 August 2015
 
 /u/aminok has his post [(archive)](https://archive.is/E75Cx#selection-1969.95-1969.299) deleted, in which he asked the mods: “please don’t try to impose your will on the Bitcoin community.” 
