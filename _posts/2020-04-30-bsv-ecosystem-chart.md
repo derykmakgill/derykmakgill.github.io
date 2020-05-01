@@ -875,3 +875,76 @@ It looks like it is/was a gattling gun app that maybe stress tests the BSV netwo
 
 I have no idea. If it's a stress test app, that hardly qualifies as much.
 
+### Bitpocket
+
+It was hard to find information on Bitpocket but I eventually found a [video](https://streamanity.com/video/3vLaKyRPwMVE1Q?ts=15883613819) from mid-2019.
+
+The developers describe it as a task incentive system, which is fairly vague but sounds neat. They discuss it in the context of incentivizing their kids to do chores and what not, but I imagine there are a ton of other use cases.
+
+#### Testing it out
+
+They describe it as pre-alpha. I wasn't able to find any updates since the video but it appears the [developers are active](https://twitter.com/MetaNetTV/status/1205373171555192832?s=20) and working on it.
+
+#### Conclusion
+
+It's too early to tell. It's not dead, it just hasn't been born yet.
+
+### 2048 SV
+
+This is another [simple browser game uploaded to BSV.](https://bico.media/f2951f4f7e4e8518d98dd0aa377e2504761962fbff58d791276d6496d0827548)
+
+#### Testing it out
+
+I really don't know what 2048 is or how to play, but I press a bunch of buttons and the game definitely works. It's fast, well designed, etc.
+
+#### Conclusion
+
+It's real. I don't know if it's being actively worked on though. It seems kind of like a 'done-and-upload' project. As with most of the games, I don't really think these should seriously count as multiple listings on the chart.
+
+### Bitproof
+
+Bitproof has something to do with turning data into PDFs, but I can't really find any information on it.
+
+#### Testing it out
+
+The [website is dead.](https://pdf.bitproof.network/)
+
+#### Conclusion
+
+It looks like a dead project to me!
+
+### Cryptograffiti
+
+I found this [project very easily.](https://cryptograffiti.info/) It's a tool for viewing text or file data on the blockchain that used to be for Bitcoin Cash but switched over to Bitcoin SV
+
+>CryptoGraffiti.info monitors the Bitcoin network in real-time and tries to detect transactions that contain either human-readable text messages or files of known formats. When it finds such a transaction, it will be published under the READ tab. Our decoder is capable of finding even those messages that originate from third parties (such as twetch.app).
+
+You can also encode your own messages and timestamp files with a cryptographic hash that is shared on the blockchain without actually uploading the file.
+
+>Unlike with Null Data (OP_RETURN), which the miners could trivially delete from their storage, we make the data look like someone's unspent bitcoins. Any data that is saved in this manner becomes truly immutable. That said, it is advisable to use this service responsibly because only perhaps with an international court order can such data be erased.
+
+#### Testing it out
+
+I remember Andreas Brekken [shared a message last year.](https://cryptograffiti.info/#406c18ff8e210c0fb210763a786db9b25ff6ccd3807d76721891d80adb7b6dcc) It says "Epstein Didn't Kill Himself."
+
+Here's another [message](https://cryptograffiti.info/#664b6224939f47bc8e07a0497b97a3c418987df9f9e85a83ac0c6ebb9c15a4a8) I found on the Read discovery tool. It says "Anyone who still thinks Craig Wright isn't Satoshi Nakamoto in 2020 is a moron."
+
+#### Conclusion
+
+It's a real tool. It's kind of cool to be able to immutably store and view messages like this.
+
+### Social Gambling
+
+I can't find any information on 'Social Gambling.' It looks to me like it could be a double listing for [Phun.io,](https://www.phun.io/) which is described as the "Social Bitcoin SV Gambling Game," which I will review later.
+
+#### Conclusion
+
+It's probably a double listing, but I can't know for sure. I definitely can't find any info that it exists.
+
+### SatoshiMaps
+
+SatoshiMaps is on-chain BSV maps.
+
+>Users are invited to add business listings to the map. All content is stored on-chain, and ultimately, can be overlayed on any map software, wether Google Maps or some open source GIS software.
+>
+>We attempt to utilise the concept of an economic community to build a registry of businesses all over the world. Primarily, we are interested in businesses that accept Bitcoin. But all businesses can be included, we will simply build tools to filter for such specifics over time.
