@@ -781,9 +781,87 @@ It's easy to use and their search function has worked for me several times. Many
 It's real, working, and useful! I just don't know why a resource list is listed on another resource chart. That seems to defeat the purpose of the chart. It's almost a bit mid-level marketing feeling,
 
 
- 
+### The White Company
+
+According to their founder, the White Company has a suite of products like a relodable debit card, stablecoin, a Bitcoin exchange, and a marketplace that helps clients purchase luxury goods.
+
+Maybe they can help me buy a sailboat with Bitcoin?
+
+Their founder says in an [interview](https://coingeek.com/pay-in-bitcoin-sv-using-elizabeth-whites-reloadable-white-card-video/) that their products are all geared towards mass adoption. Instead of lengthy hashes, they use emails, etc etc.
+
+They also offer white label solutions that help merchants accept cryptocurrency and settle in fiat or whatever they want.
+
+#### Testing it out
+
+First I go to their debit card signup page and there I meet my first issue. **BSV is not listed as one of the supported currencies.** I go to [Twitter](https://twitter.com/thewcomp/status/1255135684135772161?s=20) and confirm they do indeed support BSV, among several other cryptocurrencies.
+
+I'll apply for a card but it's not going to come in any reasonable time for this article.
+
+Then I tested their online wallet. Signup is easy and the backend looks decent. Everything works!
+
+I test their store last. It doesn't have many items listed but I think most of the work they do is directly with clients.
+
+Still, there ar some lambos and watches, and other stuff.
+
+My eyebrows raise though when I see 2 tickets to the 2019 Burning Man festival. It suggests they aren't doing much business if that still hasn't been updated.
+
+#### Conclusion
+
+It's real enough for me. They aren't BSV exclusive and don't even seem to particularly favor BSV over other cryptocurrencies. They don't advertise BSV heavily on the site and I have no indications they're going to be big players in BSV. To me it looks like BSV is just one in a basket of currencies they will support.
+
+That's fine, but that ranks it quite a bit lower in my eyes if we're judging its relevancy to the BSV Ecosystem.
+
+### BSV Links
+
+Judging by the title, this *was* a BSV resource page with a bunch of links to other projects.
+
+I wouldn't know though because the [website is dead.](https://bsvlinks.com/)
+
+#### Conclusion
+
+Well organised resource pages can be useful, especially if they're not dead sites.
+
+Regardless, it makes no sense to me that this was listed on a BSV Ecosystem Chart.
+
+### Timestamp Network
+
+I can't find anything online about Timestamp Network.
+
+I do find a tool called [Chronos](https://chronos.bitdb.network/) by _unwriter which timestamps transactions. Here's the use case per [CoinGeek.](http://coingeek.com/_unwriters-tools-explained-practical-use-cases-reviewed/)
+
+>Since Chronos stores each transaction with a timestamp chronologically, this database can be used as a single source of truth in terms of keeping track of timing of transactions. Users do not have to rely on inconsistencies from other nodes, their node or miners. Therefore developers have an incentive to use Chronos for their applications rather than (god forbid) their own ‘full node’.
+
+#### Conclusion
+
+I have no way of knowing whether or not Chronos is Timestamp Network. I assume it's not and that this is dead or inactive.
+
+### Duck Creation
+
+I've bought two mugs from [Duck Creation](https://www.duckcreation.com/) before. The first one came broken but they promptly replaced it.
+
+I didn't actually know what they did until I met one of the main guys involved in London.
+
+They're working on a [game](https://www.duckcreation.com/demo/) powered by BSV that is not released yet. There's some kind of really basic proof-of-concept on the site but the creator told me that's pretty much nothing like the real game.
+
+I told him to make more dug mugs in the meantime.
+
+#### Conclusion
+
+They're real and working on something, but I have no idea when the product will be released or what it is. In the meantime, it sort of feels like the ecosystem chart is bragging about a store that sells two mugs with drawings of cute ducks and Bitcoin.
+
+I'm a fan of the mugs and the people involved, and I hope they build something great. But come on.
+
+### True Reviews
 
 
+### Twip
 
+I can't find anything about Twip online. There's one reference to Twitter tipping with BAT, but nothing else, and certainly nothing associated with BSV.
+
+#### Conclusion
+
+Maybe I'm looking in the wrong places. Maybe it's dead. Maybe it never existed.
+
+### Unplanaria
 
 
