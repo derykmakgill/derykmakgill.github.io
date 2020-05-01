@@ -146,7 +146,7 @@ I got several error messages and Cloudflare 504 timeouts. It's a neat interface 
 
 It's a legitimate proof-of-concept project that needs some reliability work.
 
-## 9. Sporstack
+### 9. Sporstack
 
 [Sporstack](https://sporestack.com/) offers accountless, API-driven VPS hosting for Bitcoin, Bitcoin Cash, Bitcoin SV, and Monero.
 
@@ -174,7 +174,7 @@ In a broad way, they are, but the chart definitely gives the impression that it 
 
 I also find it a little funny that given all the talk about legal compliance in BSV the chart lists a service that very clearly is trying to help at least some people skirt the law.
 
-## 10. My movies
+### 10. My movies
 
 There's a Reddit post about My movies that says ["MyMovies - Signing a Hollywood actress with MoneyButton."](https://www.reddit.com/r/bitcoincashSV/comments/c7m8m4/mymovies_signing_a_hollywood_actress_with/) It links to a YouTube video but the account is [terminated.](https://www.youtube.com/watch?v=jjiiFkYSOXY)
 
@@ -188,7 +188,7 @@ I finally find an [article on Coingeek](https://coingeek.com/when-craig-wright-m
 >
 >Mymovies invites people to fund, secure their rights as creators and distribute their films on the blockchain. Speaking from his home in Silicon Valley, Ted said the idea is to improve on the suggested movies which Netflix presents to its viewers by creating a strip of titles that you’d like to watch if they were made.
 
-## Testing it out
+#### Testing it out
 
 [MyMovies.us](https://www.mymovies.us/) is the domain! The website looks like an eartly Geocities site or something and says that it is under construction. It also gives a little more info about their backstory.
 
@@ -227,7 +227,7 @@ It is actively being worked on? What value does this add to BSV?
 
 I don't know. I don't understand why this was listed.
 
-## 11. BlareSV
+### 11. BlareSV
 
 This was an easy project to find. It appears to be by the same guy behind The BitcoinSV Channel (RIP YouTube). Here is how it is described on it's [website.](https://www.blaresv.com/)
 
@@ -241,7 +241,7 @@ I can't. It releases its beta version in June 2020 according to the site.
 
 It looks like a neat idea.
 
-## 12. Gemscape
+### 12. Gemscape
 
 The recently bearded Ryan X.Charles, who I've always respected, introduced me to this when he posted the other day on [Twitter.](https://twitter.com/ryanxcharles/status/1254815371091050503?s=20)
 
@@ -266,7 +266,7 @@ It's real and it's a neat proof-of-concept. I didn't notice any major problems. 
 
 I would probably NOT want to be in a business like this personally, but best of luck to the creators. They've definitely made something that could be useful.
 
-## 13. Memorygame
+### 13. Memorygame
 
 I can't find anything on this project using Google or [Twitter queries.](https://twitter.com/search?q=memorygame%20bitcoin&src=typed_query&f=live)
 
@@ -278,7 +278,7 @@ I really think it would be better to have a PDF report with LINKS to projects in
 
 I see no evidence this exists or ever existed.
 
-## 14. KwabaSV
+### 14. KwabaSV
 
 I found this easily! It's a simple web wallet. They're active on Twitter and the site is [live.](https://bico.media/b52572081e88233e6ab2ccfa5b8a44d1d969f18e10f25c3631ee4dd37703d41a#)
 
@@ -287,4 +287,76 @@ You can also use the service to upload files (e,g mp3, mp4, pdf's) to the METANE
 #### Conclusion
 
 It's real and it works. It's nothing revolutionary now but it's a nice proof-of-concept.
+
+### 15. BitcoinPong
+
+[I already knew about this!](https://bico.media/1598502b35891e9bb6a66d115f05104b254270085740ebdd02ca36a634ef72d8) BitcoinPong, if I'm thinking of the right one, is a rudimentary pong game hosted on the BSV blockchain. That's pretty cool!
+
+#### Testing it out
+
+It's pong. It's self explanatory. There are five levels and I beat them easily.
+
+#### Conclusion
+
+It's a working proof-of-concept. I don't really know why you'd need this on a blockchain but then again I think you should be able to use the blockchain however you want.
+
+The bigger issue is that this can hardly be considered part of the 'ecosystem' in any important way. Turn it into a real popular game with payouts for winning and other stuff and I'll reconsider.
+
+For now, like I said, it's a proof-of-concept but hardly evidence of Bitcoin SV's progress.
+
+### 16. Trends.Cash
+
+[Trends.Cash](https://trends.cash/) is a tool to visualize application data like popularity on Bitcoin SV. 
+
+#### Testing it out
+
+I typed 'Twetch' into the search bar and it just loaded forever. I don't know if I'm doing something wrong or not, or what the purpose of the search function even is.
+
+#### Conclusion
+
+This is a short review because there isn't much to say. It's simple and it works except for the search function which could be my fault?
+
+There's some interesting data on it and I can see it being more useful if BSV grows.
+
+As with many of the projects I've reviewed so far, it feels like a proof-of-concept.
+
+### 17. MemoSV
+
+Memo.SV is the SV version of Memo.Cash. It's blockchain-based social media for Bitcoin Cash and Bitcoin SV. 
+
+#### Testing it out
+
+I've already used it before way back in the day and it's easy enough to make Twitter-like posts. The design is subpar and the content is mostly a bit spammy. The Bitcoin Cash version is generally of higher quality people and content than the BSV one. 
+
+In fact, among the BSV 'most active profiles,' very few have posted at all in 2020.
+
+#### Conclusion
+
+Censorship-resistant content is important and if blockchain is the best way to do it, let's do it!
+
+I really liked [this bit](https://jasonc.me/blog/what-is-memo) from the creator's website.
+
+>Memo's current functionality is just the tip of the iceberg. Soon you can have your own website forever by paying a one-time fee. No need for registering a domain, paying for servers, or keeping software up to date.
+
+But this isn't currently a unique app to BSV and I can't see much evidence at all that many people are using it or that it has any positive impact whatsoever on the BSV ecosystem.
+
+I don't really know why this is listed.
+
+### 18. MetaNet TV
+
+This is honestly getting exhausting.
+
+MetaNet TV says in its description box: "The MetaNet is currently under construction."
+
+What is MetaNet TV? It appears to be a YouTube/Streamanity (more on that later) channel that talks about Bitcoin SV stuff.
+
+#### Conclusion
+
+The last video was published 5-months ago and there doesn't appear to be much recent activity. I don't know why this was listed because it's basically just a YouTube channel that isn't very active.
+
+### 19. FairBSV
+
+I can't find any information that this exists or what it is supposed to be about other than the WhoIS info which says the url fairbsv.com was registered in October 2019.
+
+### 20. Matterpool
 
