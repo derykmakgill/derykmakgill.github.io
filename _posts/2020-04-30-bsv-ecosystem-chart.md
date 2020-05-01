@@ -752,27 +752,27 @@ It looks like this was listed twice, so I have to mark it as dead twice.
 
 ### B2029
 
-They're a Bitcoin [meetup/workshop group](https://b2029.org/about) based in Berlin.
+They're a Bitcoin [meetup and workshop group](https://b2029.org/about) based in Berlin.
 
 >We're are a group of Bitcoin enthusiasts who are keen to learn more about developing on the MetaNet.
  
- They seem to be quite active.
+They seem to be quite active.
  
- #### Testing it out
+#### Testing it out
  
- I don't have anything to test. The website is nice and I recognize several names and faces.
+I don't have anything to test. The website is nice and I recognize several names and faces.
  
- #### Conclusion
+#### Conclusion
  
- It's real and alive. I'm not sure a meetup group really qualifies to be on this list, but I think that's subjective.
+It's real and alive. I'm not sure a meetup group really qualifies to be on this list, but I think that's subjective.
+
+### BSV Devs
  
- ### BSV Devs
+I've already used [BSV Devs](https://www.bsvdevs.com/) several times in the course of doing this research.
  
- I've already used [BSV Devs](https://www.bsvdevs.com/) several times in the course of doing this research.
+BSV Devs is a BSV ecosystem aggregator focusing on software tools and applications.
  
- BSV Devs is a BSV ecosystem aggregator focusing on software tools and applications.
- 
- #### Testing it out
+#### Testing it out
  
 It's easy to use and their search function has worked for me several times. Many of the links are outdated however and I think dead projects should be deleted eventually.
 
