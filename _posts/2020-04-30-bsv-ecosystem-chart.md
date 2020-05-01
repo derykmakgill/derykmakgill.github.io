@@ -409,3 +409,33 @@ This is some kind of multiplayer game, but I can't get it to work. The [website]
 #### Conclusion
 
 I don't know whether it's a broken project or not. It looks like it could be a good idea.
+
+### 27. Metaupload
+
+This appears to have been a side project at one point. A [Twitter search](https://twitter.com/search?q=metaupload&src=typed_query&f=live) shows some comments that appear to be about it, but the original account looks like it is gone.
+
+I have no idea what it is or was.
+
+#### Conclusion 
+
+It looks dead to me.
+
+### 28. BSV Wallet Bot
+
+This is a BSV wallet for [Telegram.](https://t.me/bsvwalletbot)
+
+#### Conclusion
+
+I've never seen it used but it appears to be working. It looks like the BCH and BTC tipper bots are much more active however.
+
+### 29. SV Charts
+
+The [SV Charts](SV Charts.com) site is a dead link. From the Google meta info on [BSVDevs.com](https://www.bsvdevs.com/index.php/detail/svcharts-com) we can tell it was, as you can imagine, going to display Bitcoin data.
+
+>This website will show detailed charts of Bitcoin data not seen before on other websites. The number of charts at the moment is limited, but expect these to grow ...
+
+#### Conclusion
+
+It's another dead project.
+
+### 30. BSV Galaxy
