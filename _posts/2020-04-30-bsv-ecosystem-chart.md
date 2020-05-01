@@ -865,3 +865,13 @@ Maybe I'm looking in the wrong places. Maybe it's dead. Maybe it never existed.
 ### Unplanaria
 
 
+### Tiddalik
+
+It's very hard to find info about Tiddalik. Here's a [Tweet.](https://twitter.com/Snugglygope/status/1191545077639741440?s=20)
+
+It looks like it is/was a gattling gun app that maybe stress tests the BSV network?
+
+#### Conclusion
+
+I have no idea. If it's a stress test app, that hardly qualifies as much.
+
