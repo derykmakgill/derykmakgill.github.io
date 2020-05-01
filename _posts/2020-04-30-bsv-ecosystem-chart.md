@@ -439,3 +439,99 @@ The [SV Charts](SV Charts.com) site is a dead link. From the Google meta info on
 It's another dead project.
 
 ### 30. BSV Galaxy
+
+This was easy to find. [BSV Galaxy](https://bsvgalaxy.net/) is some kind of membership site for BSV creatives that is roughly $15 per year for access to a Telegram, Discord, and some other perks. There's also a store selling some shirts and hats.
+
+#### Testing it out
+
+I'm not going to pay to signup. You can see it discussed on Twitter quite recently so it's still being actively promoted and worked on.
+
+#### Conclusion
+
+Membership sites are popular in the world outside Bitcoin so I imagine this could be a good idea. That said, I don't know and can't find anyone who is actually a member, and the information is pretty non-specific.
+
+Should it be listed on the chart? I have mixed feelings. It's a live site, I just don't see the value add right now or evidence this is contributing value to the BSV ecosystem. I could be wrong....
+
+### Metahandle
+
+The Github project says this about Metahandle:
+
+>MetaHandle is a tool to access onchain content on Bitcoin SV (BSV). Instead of accessing it with a txid, you can reference any content to a human readable handle which is stored onchain. So all you need is to search for your handle to access any file you want.
+
+#### Testing it out
+
+~~I can't test it out because the linked website appears to be dead.~~
+
+Nevermind, [it loaded after several tries.](https://www.metahandle.net/) It's actually really neat. Metahandle makes it easier to find data uploaded to the BSV blockchain. Instead of a transaction id like <code>0478a101336483d878bccec3c82bb97e8aea7f0c3c4dbf65c1ef910957b558c8</code> which is impossible to memorize, you can assign a memorable tag or bookmark to it and then search for it later.
+
+Using the search tool, I was able to find, among other things, an [on-chain Tetris](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea) game that I played and the [first metal rock video uploaded to the chain.](https://bico.media/B://54dd9fe306fa8cdecd4e955ec5cb7332044f6b5ed8806cd500c728b53963323e)
+
+There's also a copy of one of my favorite books, [Animal Farm.](https://bico.media/501a8cc60f9a9acbf2b0fcd4a8343ef8a525e4c72443dd3659f3803ba16aeb28)
+
+#### Conclusion
+
+It's a legit project that I can see being very valuable for people storing data on-chain.
+
+### BSV Guru
+
+[BSV Guru](https://bsv.guru/)is just some guy's blog that hasn't been updated in a couple months.
+
+#### Conclusion
+
+I have no idea why this is listed or why any blog would be except something on the level of, for example, CoinGeek.
+
+### Ask The World
+
+I can't find any information on Ask The World.
+
+#### Conclusion
+
+Either it doesn't exist or it's not big enough currently to be relevant.
+
+### TweeTwe
+
+It took me forever to find this and there isn't much [info.](https://twitter.com/bitproofnetwork/status/1161472467464069120?s=20)
+
+Unfortunately both the [TweeTwe site](https://tweetwe.bitproof.network/) and the creator's [main site](http://bitproof.network/) are down and he hasn't Tweeted since December 2019.
+
+##### Conclusion
+
+It used to be live but it's dead or inactive right now.
+
+### Nicedata
+
+This was easy to find. A Reddit post says the following:
+
+>Two new #BSV applications coming out yesterday in China. Onchain shop(http://52freemarket.com) and onchain chatroom (http://nicedata.space) Though their products are in early stage, they will keep optimizing. Go! Chinese brilliant developers
+
+#### Testing it out
+
+Unfortunately the [site is dead](http://nicedata.space) and I can't try it. I don't even know what it did.
+
+#### Conclusion
+
+It's dead or in some kind of limbo. I don't know.
+
+### Metanet Labs
+
+Metanet Labs was easy to find on Google. It describes itself as a "Blockchain and Metanet education and training center." 
+
+The site is full of cheesy stock photos but who am I to judge?
+
+The footer of the site says that "MetaNet Labs is a sister company of MetaNet Solutions and a subsidiary company for LAYER2."
+
+The 'About' page says that they "take pride in the fact that we are the first training organisation to deliver Metanet based training."
+
+They list several course titles on the homepage like "The Metanet" and "Advanced—Developer."
+
+#### Testing it out
+
+I'd be interested in a course so I try to click the Metanet course. Unfortunately, there is no Metanet course. In fact, there are live courses on the site at all. Indeed, there appears to be no products whatsoever I can use.
+
+#### Conclusion
+
+It's a *bit* odd to use corporate-speak like "subsidiary company" when you don't have a product live and the site is mostly filler-content.
+
+I can't really say this project is dead. I just can't say it's alive. I'll file it as uncertain and plan to check back in a few months.
+
+### Metabox
