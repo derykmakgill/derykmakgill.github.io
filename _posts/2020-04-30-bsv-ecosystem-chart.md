@@ -482,11 +482,17 @@ I have no idea why this is listed or why any blog would be except something on t
 
 ### Ask The World
 
-I can't find any information on Ask The World.
+I can't find much information on ask the world. I originally concluded it didn't exist but hours later I discovered an article on [CoinGeek](https://coingeek.com/finalists-of-second-bitcoin-sv-virtual-hackathon-revealed/) about them that says "Ask The World provides a supply and demand economic model for seeking any kind of assistance."
+
+Apparently they were a runner-up in a BSV hackathon in 2019.
+
+#### Trying it out
+
+Unfortunately I can't find anymore information or a website!
 
 #### Conclusion
 
-Either it doesn't exist or it's not big enough currently to be relevant.
+Either it doesn't exist anymore or it's not big enough currently to be relevant.
 
 ### TweeTwe
 
@@ -542,6 +548,16 @@ I searched on the [BSV Open Directory,](https://dir.sv/) Reddit, Twitter, Google
 
 I couldn't find anything.
 
+I finally find [something](https://bico.media/1c4b58bd67a9f9f5e22b6e46e555de95de8b7f222b9230c326bde1d97dc99629) on Metahandle after I reviewed it. It tells me to ask a question on the blockchain and pay 2 cents worth of BSV and it will return an answer.
+
+#### Testing it out
+
+I ask "what color is the sky?" It replies "no way."
+
+#### Conclusion
+
+I have no idea what the point of this is or why it's listed on the chart.
+
 #### Conclusion
 
 I have no idea what this is and whether its alive, dead or in limbo.
@@ -582,9 +598,190 @@ Unfortunately it keeps crashing on my phone right when I open it. I never have t
 
 #### Conclusion
 
-I have no idea whether or not this is still being developed or not and how it supposedly is part of the BSV ecosystem.
+I have no idea whether or not this is still being developed and how it supposedly is part of the BSV ecosystem.
 
 It looks to be on life support.
+
+### Bitpaste
+
+[Bitpaste](https://www.bitpaste.app/) allows you to store immutable files and text on the Bitcoin SV blockchain with a simple swipe. Think of it like PasteBin but better.
+
+You can also add a paywall to your uploaded content and a tip button, which they take a small fee on.
+
+I was already familiar with it because I and many people I know use it a lot.
+
+#### Testing it out
+
+It works perfectly. It's exactly what a Bitcoin app should be—it works like we expect any quality app to work, only it uses Bitcoin to perform the service better. The writing experience is excellent and has all the formatting options you would expect in a writing app.
+
+You can view my test [here.](https://www.bitpaste.app/tx/c5d6c66151092966b8a0c8af100d234f0748f1ed9f655571d1fc6686c5c11eb9)
+
+#### Conclusion
+
+If they're for sale, I'd like to buy them. They have a legit product that I know is useful. 
+
+### Soundchain
+
+I can't find any information on Soundchain. They had a Twitter account once but it has been [deleted.](https://twitter.com/soundchain_)
+
+#### Conclusion
+
+It's dead or in limbo. Maybe it changed its name? I don't know. 
+
+### The BSV Daily
+
+I assume this is or was a news site or newsletter, which I've already said probably shouldn't count on an ecosystem list in my opinion.
+
+I wouldn't know though because I can't find any information and the one link I found is [basically dead.](https://www.agora.icu/apoteka/the-bsv-daily)
+
+#### Conclusion
+
+Move along. Nothing to see.
+
+### Bitproton
+
+[Bitproton](https://bitproton.com/) has a tool that allows you to sign cold wallet transactions offline. It also offers a web wallet.
+
+#### Testing it out
+
+The website was flagged by my Brave browser because it doesn't have a SSL certificate, which is a red flag. I can bypass it and the site looks well designed and professional.
+
+The [Github](https://github.com/bitproton/coldwallet) hasn't been updated in 17 months, which doesn't necessarily mean anything.
+
+Unfortunately I can't try the software because it is a Windows only beta.
+
+#### Conclusion
+
+I'm uncertain about this one. I can't see any recent activity and I don't know whether it is still actively maintained or not. Still, it doesn't look dead.
+
+### PlayBitcoin
+
+This appears to have been a game or something. I found a [Tweet that says:](https://twitter.com/agsupun/status/1108960744849051649?s=20)
+
+>I even started a small game hoping to use the profits for the fund. @playbitcoin.cash
+
+#### Testing it out
+
+The [website is dead.](http://playbitcoin.cash/)
+
+#### Conclusion
+
+It's dead.
+
+### ScrollPay
+
+According to [CoinGeek,](https://coingeek.com/finalists-of-second-bitcoin-sv-virtual-hackathon-revealed/) ScrollPay seeks to monetize content in a way where users pay for as much as they scroll.
+
+That sounds like a potentially neat idea. Pieter Levels made a scroll based app for his online book, Make, which scrambles text the further you scroll down the free version. You have to pay to unlock it.
+
+What if you could unscramble text while automatically paying as you scroll? That would be COOL!
+
+#### Testing it out
+
+I can't find any information about testing this out and there are no website links I can find.
+
+### Conclusion
+
+I would have written this off as dead, but I found the person who I think created it and he's a legit developer working on some cool projects. Maybe this was a proof-of-concept or maybe he's still building it behind the scenes.
+
+Either way, it's probably nowhere near ready to be listed on an ecosystem roundup. I hope he builds it though!
+
+### BSV On Chain
+
+I can't find any information on this project.
+
+#### Conclusion
+
+I don't know what to conclude. Question mark.
+
+### Polynym
+
+T[his looks like a useful tool.](https://polynym.io/)It allows you to resolve the addresses from PayMail addresses, Twetch user IDs, Handcash handles, etc.
+
+That just means it'll convert it from one format to another.
+
+#### Testing it out
+
+It works! It's easy and quick. I don't have any complaints. 
+
+#### Conclusion
+
+It's a real service. I haven't needed a tool like this yet but if I do, I'll know where to go.
+
+### Super Mario Bros
+
+Someone put [Super Mario Bros on the BSV blockchain.](https://twitter.com/AttilaAros/status/1092421669673680896?s=20) That's awesome.
+
+Doesn't this break BSV's stance on copyright though??
+
+#### Testing it out
+
+The link I have redirects now to another site. I wonder if there was a copyright issue? 
+
+#### Conclusion
+
+I love that people can do things like this. It's obviously a proof-of-concept but still, the idea of running a browser-game on Bitcoin gets me excited.
+
+I'm disapointed I couldn't try it because it appears the link isn't working. I'm also starting to feel like little games like this should all be listed under one box on the chart. It's a bit unfair to list a bunch of games like Pong, Tetris and Super Mario Bros as separate things. It inflates the chart and makes them look like bigger 'wins' than they are.
+
+### Sporestack
+
+Sporestack again? It looks like this is listed twice for some reason.
+
+### Flappy Pikachu
+
+[Another game](https://www.reddit.com/r/bitcoincashSV/comments/ao43uy/play_flappy_pikachu_on_bitcoin_sv/) on the Bitcoin SV blockchain.
+
+#### Testing it out
+
+Once again, the [link redirects me and I can't access it.](https://www.bitcoinfiles.org/d7bac8a0e3adb2d3c2e55cb1c84a177d0269457aa7172a80297daaf5e9488cc5)
+
+#### Conclusion
+
+Another disappointment as I've genuinely had fun testing out these little browser games people upload. It reminds me of being a kid playing games on Addicting Games or Miniclip.
+
+It looks to be dead unless I can find another link.
+
+### PlayBitcoinSV
+
+The link on BSV Devs gives me the same one as PlayBitcoin.
+
+#### Conclusion
+
+It looks like this was listed twice, so I have to mark it as dead twice.
+
+### B2029
+
+They're a Bitcoin [meetup/workshop group](https://b2029.org/about) based in Berlin.
+
+>We're are a group of Bitcoin enthusiasts who are keen to learn more about developing on the MetaNet.
+ 
+ They seem to be quite active.
+ 
+ #### Testing it out
+ 
+ I don't have anything to test. The website is nice and I recognize several names and faces.
+ 
+ #### Conclusion
+ 
+ It's real and alive. I'm not sure a meetup group really qualifies to be on this list, but I think that's subjective.
+ 
+ ### BSV Devs
+ 
+ I've already used [BSV Devs](https://www.bsvdevs.com/) several times in the course of doing this research.
+ 
+ BSV Devs is a BSV ecosystem aggregator focusing on software tools and applications.
+ 
+ #### Testing it out
+ 
+It's easy to use and their search function has worked for me several times. Many of the links are outdated however and I think dead projects should be deleted eventually.
+
+#### Conclusion
+
+It's real, working, and useful! I just don't know why a resource list is listed on another resource chart. That seems to defeat the purpose of the chart. It's almost a bit mid-level marketing feeling,
+
+
+ 
 
 
 
