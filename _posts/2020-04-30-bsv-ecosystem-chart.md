@@ -535,3 +535,58 @@ It's a *bit* odd to use corporate-speak like "subsidiary company" when you don't
 I can't really say this project is dead. I just can't say it's alive. I'll file it as uncertain and plan to check back in a few months.
 
 ### Metabox
+
+### The Oracle of Bitcoin
+
+I searched on the [BSV Open Directory,](https://dir.sv/) Reddit, Twitter, Google and BSV Devs.
+
+I couldn't find anything.
+
+#### Conclusion
+
+I have no idea what this is and whether its alive, dead or in limbo.
+
+### Bitcoin Forever Fund
+
+The [Bitcoin Forever Fund](https://bsvforeverfund.com/) is a way to set up automated, scheduled payments in BSV. It's clearly a proof-of-concept right now.
+
+#### Testing it out
+
+I was initially skeptical. The site is very bare bones and looks dead when you visit. I can't believe they don't have any information on the homepage.
+
+I set up an account and confirmed with my email. It worked!
+
+The backend is simple and easy enough to use and it indeed appears to work too! You can schedule payments in advance and recurring monthly payments.
+
+#### Conclusion
+
+It's a real project with a solid proof-of-concept. I'm excited to see what they build.
+
+I'm interested in how it works too and what kind of security of offers users who deposit Bitcoin SV.
+
+### Smoove Text
+
+[Smoove Text](https://apps.apple.com/us/app/smoove-text/id1362792811) is some kind of iPhone app listed under several BSV ecosystem roundup lists under 'Gaming and Entertainment.' It launched on [Product Hunt](https://www.producthunt.com/posts/smoove-text) a year ago as of this post.
+
+The company [Twitter](https://twitter.com/SmooveText)account has 14 followers and has retweeted Donald Trump. It doesn't appear active.
+
+I can't find any information on how it relates to BSV other than the Twitter location settings, which says 'metaverse', but it does have some reviews on the app store (3 stars).
+
+>Smoove uses artificial intelligence to inspire you and your friends with motivational lessons from legends throughout history. With every tap, you are presented with a new thought. When you tap the lit icon, you can do all sorts of things with the thought including add to favorites, copy or share with friends.
+
+#### Testing it out
+
+I figure maybe if I download it I will figure out what it does with BSV. 
+
+Unfortunately it keeps crashing on my phone right when I open it. I never have this problem with other apps so I assume it's the app.
+
+#### Conclusion
+
+I have no idea whether or not this is still being developed or not and how it supposedly is part of the BSV ecosystem.
+
+It looks to be on life support.
+
+
+
+
+
