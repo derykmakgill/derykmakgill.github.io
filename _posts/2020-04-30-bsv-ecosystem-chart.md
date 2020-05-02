@@ -2,6 +2,10 @@
 layout: post
 title: Investigating the BSV Ecosystem Chart
 permalink: bsv-ecosystem-chart
+tags:
+   - bitcoin
+   - bsv
+   - review
 ---
 
 The BSV Ecosystem Chart as of April 30, 2020 records 414 total projects developed at a rate of .8 projects per day.
