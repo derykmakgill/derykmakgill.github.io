@@ -2,6 +2,7 @@
 layout: post
 title: The beta of BitCoin is live tomorrow
 permalink: bitcoin-beta
+tags: bitcoin
 ---
 
 e-gold is down the toilet. Same shit. They wanted anarchy, crime. Technocracy.
