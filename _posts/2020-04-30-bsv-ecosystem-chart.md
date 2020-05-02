@@ -947,8 +947,40 @@ It's probably a double listing, but I can't know for sure. I definitely can't fi
 
 ### SatoshiMaps
 
-SatoshiMaps is on-chain BSV maps.
+[SatoshiMaps](https://www.satoshimaps.com/) is on-chain BSV maps.
 
 >Users are invited to add business listings to the map. All content is stored on-chain, and ultimately, can be overlayed on any map software, wether Google Maps or some open source GIS software.
 >
 >We attempt to utilise the concept of an economic community to build a registry of businesses all over the world. Primarily, we are interested in businesses that accept Bitcoin. But all businesses can be included, we will simply build tools to filter for such specifics over time.
+
+You can also upvote or downvote listings with a microtransaction to make sure listings are accurate.
+
+>The concept of the 'economic community' involves users paying a microtransaction to make a listing, and paying a microtransaction to downvote an invalid or inaccurate listing. This serves to keep the information as honest as possible. Further it provides excellent incentive for miners to keep mining. The more apps we can build that work off micro txs the better.
+
+#### Testing it out
+
+It's easy to post a listing, though it doesn't feel like the marker on the map will be terribly accurate unless you already know the longitude and latitude.
+
+Viewing a listing is easy too, but I can imagine the map getting very clogged up quickly once more data is there.
+
+#### Conclusion
+
+It's really a proof-of-concept. I can't see it being particlarly useful to anyone now but it's a real, working test which is cool. For now, just use Apple Maps.
+
+### CodeOnChain
+
+[CodeOnChain](https://codeonchain.network/) helps you upload full code repositories to the BSV blockchain.
+
+I was inititally skeptical but several people I know have used it, and apparently an Iranian developer who had his GitHub account restricted because of [US trade regulations](https://codeonchain.network/tx/84050ec6fad94fc635da3b49b883a701348ee1c03e5f874a9858a5657475577c) was able to [use it.](https://twitter.com/ronaldo_hommel/status/1185891352556400641?s=20)
+
+#### Testing it out
+
+I set up a [repository](https://codeonchain.network/tx/6a5ca5ecc601e1486e78d20cbbc2ec21c712f34b03a3d279e678840b8aa6f1ad) for less than 1 cent! It appears to have all the functionality I'd be looking for.
+
+Unfortunately I forgot to save my master key so I can't edit it or add more files! But this is user error for sure.
+
+#### Conclusion
+
+This is a legit project that allows anyone, anywhere to set up a censorship-resistant git repository with full version control. I love that.
+
+It's definitely in an early version but I hope they keep developing it.
