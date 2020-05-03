@@ -150,9 +150,9 @@ I got several error messages and Cloudflare 504 timeouts. It's a neat interface 
 
 It's a legitimate proof-of-concept project that needs some reliability work.
 
-### 9. Sporstack
+### 9. Sporestack
 
-[Sporstack](https://sporestack.com/) offers accountless, API-driven VPS hosting for Bitcoin, Bitcoin Cash, Bitcoin SV, and Monero.
+[Sporestack](https://sporestack.com/) offers accountless, API-driven VPS hosting for Bitcoin, Bitcoin Cash, Bitcoin SV, and Monero.
 
 This is awesome. I'm sorry to say I'd never heard of it before. There's a lot you can do with it like spinning up servers for a day and running servers for projects that are...against the terms of service.
 
@@ -172,9 +172,7 @@ I don't feel the need to try this one. It's legit.
 
 #### Conclusion
 
-I'm glad to see this project accepting BSV as one of several different currencies. It's not a BSV-specific project however and in fact BSV was one of the last currencies they added. To me, it'd be like saying Coinbase is part of the BSV ecosystem if they add BSV support.
-
-In a broad way, they are, but the chart definitely gives the impression that it is presenting projects that are unique to BSV, or at least primarily in support of BSV, and Sporestack isn't it.
+I'm glad to see this project accepting BSV as one of several different currencies. It's not a BSV-specific project, though the [founder](https://go-beyond.org/post/craig-wright-is-satoshi-nakamoto/) looks like he supports it personally over other cryptocurrencies.
 
 I also find it a little funny that given all the talk about legal compliance in BSV the chart lists a service that very clearly is trying to help at least some people skirt the law.
 
