@@ -15,8 +15,8 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-#  social_links:
-    #twitter: derykmakgill
+social_links:
+    twitter: derykmakgill
     #github:  derykmakgill
     # devto: jekyll
     # dribbble: jekyll
