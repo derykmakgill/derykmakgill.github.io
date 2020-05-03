@@ -14,10 +14,10 @@ permalink: pretty
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
+# generate social links in footer
 social_links:
     twitter: derykmakgill
-    #github:  derykmakgill
+    github:  derykmakgill
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
