@@ -55,7 +55,7 @@ I cannot find any useful information on Wikisv. That doesn't mean it doesn't exi
 
 Tocial is a Chinese app described as the ['Most Popular Blockchain AGC Photo Social Platform.'](https://tocial.io/) There is not much info on the website and the app links take me to the Apple TestFlight service for beta testers.
 
-It surprises me a service that is in beta would describe itself as 'the most popular' of anything, even if it's in its own category entirely.
+It surprises me a service that is in beta would describe itself as 'the most popular' of anything, even if it's in its own category entirely. I do see though that they're generating a lot of [on-chain transactions](https://twitter.com/tocial_chat/status/1256876235080126465?s=20), but this is primarily due to the fact that every bit of content requires [multiple small ones.](https://twitter.com/tocial_chat/status/1256916109627846658?s=20)
 
 I really don't want to download. Is it malware? Will it screw up my phone? Probably not since Apple vets it first, right? Still, I'm worried but I need to be thorough...And at least their [Twitter account is active.](https://twitter.com/tocial_chat)
 
@@ -85,7 +85,7 @@ The content is also subpar at best. The women are attractive but I can't imagine
 
 #### Conclusion
 
-It's a real project. It has a lot of work to do but there's actually some potential here.
+It's a real project, and not just a side project. It has a lot of work to do but there's actually some potential here.
 
 ### 5. 9k nodes
 
