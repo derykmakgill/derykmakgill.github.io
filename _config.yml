@@ -65,6 +65,6 @@ collections:
 
 staticman:
   api: "https://staticman3.herokuapp.com/v3/entry/github/derykmakgill/derykmakgill.github.io/master/comments"
-  path: "_data/comments/test-slug"
+  path: "_data/comments/:path"
   
   url: "https://derykmakgill.github.io"
