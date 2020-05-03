@@ -2,6 +2,7 @@
 layout: post
 title: Investigating the BSV Ecosystem Chart
 permalink: bsv-ecosystem-chart
+author: Deryk Makgill
 tags:
    - bitcoin
    - bsv
