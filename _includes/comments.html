@@ -6,7 +6,7 @@
   {% for comment in comments reversed %}
     {% assign commentData = comment[1] %}
     <article class="comment">
-      <h4 class="comment-name">{{ commentData.name }} commented <span class="comment-time">{{ commentData.date | date: "%b %d, %Y %H:%M:%S" }}</span></h4>
+      <h4 class="comment-name"><a href="{{ commentData.url }}">{{ commentData.name }}</a> commented <span class="comment-time">{{ commentData.date | date: "%b %d, %Y %H:%M:%S" }}</span></h4>
 
       <div class="comment-msg">
         {{ commentData.message | markdownify }}
