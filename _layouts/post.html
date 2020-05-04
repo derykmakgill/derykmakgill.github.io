@@ -59,7 +59,7 @@ layout: default
 	</article>
 
 <form method="POST" action="{{ site.staticman.api }}">
-  <input name="options[redirect]" type="hidden" value="{{ page.url }}">
+  <input name="options[redirect]" type="hidden" value="/{{ page.url }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
   <label><input name="fields[name]" placeholder="Your name*" type="text"></label><br>
   <label><input name="fields[email]" placeholder="Your email*" type="email"></label><br>
