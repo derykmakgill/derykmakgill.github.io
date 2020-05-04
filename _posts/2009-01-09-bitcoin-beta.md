@@ -13,5 +13,3 @@ They will soon. Then the world.
 
 This is decentralised... We try until it works.
 
-😄
-
