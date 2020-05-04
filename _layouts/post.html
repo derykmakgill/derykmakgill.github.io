@@ -58,6 +58,8 @@ layout: default
 	
 	</article>
 
+{% include comments.html %}
+
 <form method="POST" action="{{ site.staticman.api }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
@@ -67,7 +69,6 @@ layout: default
   <label><br><textarea name="fields[message]" placeholder="You can use Markdown syntax*" rows="12" cols="36"></textarea></label><br>
   <input type="submit" value="Submit">
 </form>
-{% include comments.html %}
 
 
 
