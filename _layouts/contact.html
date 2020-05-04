@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+    
+</div>
+
+<form method="POST" action="https://hooks.zapier.com/hooks/catch/7441009/or91whe/">
+  <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.permalink }}">
+  <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
+	<div class="textfield">
+		<input name="fields[name]" placeholder="Your name*" type="text"></div>
+  <div class="textfield"><input name="fields[email]" placeholder="Your email*" type="email"></div>
+<div class="textfield"><input name="fields[url]" pattern="https?://.+" placeholder="https://example.com" type="url"></div>
+<div class="textfield"><textarea name="fields[message]" placeholder="You can use Markdown syntax to format your comment. You can also upload images in markdown!*" rows="12" cols="36"></textarea></div>
+  <input type="submit" value="Comment">
+</form>
