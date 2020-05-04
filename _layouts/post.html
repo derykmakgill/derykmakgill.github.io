@@ -63,10 +63,11 @@ layout: default
 <form method="POST" action="{{ site.staticman.api }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
-  <label><input name="fields[name]" placeholder="Your name*" type="text"></label><br>
-  <label><input name="fields[email]" placeholder="Your email*" type="email"></label><br>
-<label><input name="fields[url]" pattern="https?://.+" placeholder="https://example.com" type="url"></label><br>
-  <label><br><textarea name="fields[message]" placeholder="You can use Markdown syntax*" rows="12" cols="36"></textarea></label><br>
+	<div class="textfield">
+		<input name="fields[name]" placeholder="Your name*" type="text"></div><br>
+  <div class="textfield"><input name="fields[email]" placeholder="Your email*" type="email"></div><br>
+<div class="textfield"><input name="fields[url]" pattern="https?://.+" placeholder="https://example.com" type="url"></div><br>
+<div class="textfield"><textarea name="fields[message]" placeholder="You can use Markdown syntax*" rows="12" cols="36"></textarea></div><br>
   <input type="submit" value="Submit">
 </form>
 
