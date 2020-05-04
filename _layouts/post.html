@@ -61,7 +61,7 @@ layout: default
 {% include comments.html %}
 
 <form method="POST" action="{{ site.staticman.api }}">
-  <input name="options[redirect]" type="hidden" value="{{ site.url }}">
+  <input name="options[redirect]" type="hidden" value="{{ page.url }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
 	<div class="textfield">
 		<input name="fields[name]" placeholder="Your name*" type="text"></div>
