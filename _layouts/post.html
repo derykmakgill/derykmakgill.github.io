@@ -63,7 +63,7 @@ layout: default
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
   <label><input name="fields[name]" placeholder="Your name*" type="text"></label><br>
   <label><input name="fields[email]" placeholder="Your email*" type="email"></label><br>
-<label><input name="fields[url]" placeholder="Your website" type="url"></label><br>
+<label><input name="fields[url]" pattern="https://.*" placeholder="https://example.com" type="url"></label><br>
   <label><br><textarea name="fields[message]" placeholder="You can use Markdown syntax*" rows="12" cols="36"></textarea></label><br>
   <input type="submit" value="Submit">
 </form>
