@@ -19,12 +19,12 @@ minima:
     github:  derykmakgill
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: https://derykmakgill.github.io/facebook
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: https://derykmakgill.github.io/facebook
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
@@ -41,7 +41,7 @@ minima:
 
     # GitLab instances
     # gitlab:
-    # - username: jekyll
+        username: makgill
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
