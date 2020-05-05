@@ -177,6 +177,14 @@ CPokerDialogBase::CPokerDialogBase(wxWindow* parent, wxWindowID id, const wxStri
     bSizer174->Add(m_checkPreRaiseAny, 0, wxALL, 5);
 ```
 
+#### 14 February 2010
+
+Satoshi deletes what appears to be unfinished rudimtentary code for a p2p marketplace in a commit labeled ["strip out unfinished product, review and market stuff."](https://github.com/bitcoin/bitcoin/commit/cc4b78d59f566ff43881f57797a16ce45eb1b80ez) Though the code was never finished, it suggests Satoshi intended for Bitcoin to be used in commerce early on.
+
+Bitcoin developer Mike Hearn [commented](http://eigenjoy.com/2014/05/17/bitcoin-2014-amsterdam-day-two-notes/) on this years later.
+
+>When Satoshi launched bitcoin he was working on a p2p marketplace and you would be able to rate buyers and sellers and the weight would be according to how much mining they had done. He realized there were more important priorities.
+
 #### 14 July 2010
 
 A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client.
