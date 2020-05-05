@@ -17,9 +17,13 @@ layout: default
   <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.permalink }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
 	<div class="textfield">
+		<label for="freeName">Name </label>
 		<input name="fields[name]" placeholder="Your name*" type="text"></div>
+	<label for="freeEmail">Email </label>
   <div class="textfield"><input name="fields[email]" placeholder="Your email*" type="email"></div>
+	<label for="freeWebsite">Website </label>
 <div class="textfield"><input name="fields[url]" pattern="https?://.+" placeholder="https://example.com" type="url"></div>
+	<label for="freeMessage">Message </label>
 <div class="textfield"><textarea name="fields[message]" placeholder="Your message! Please don't include sensitive information. You can send me that in encrypted email after we introduce ourselves." rows="12" cols="36"></textarea></div>
   <input type="submit" value="Contact">
 </form>
