@@ -3,8 +3,6 @@ layout: page
 title: Search
 ---
 
-test
-
 <form action="https://duckduckgo.com/" method="get" class="inlineform">
 	<label for="q">Search this site for anything:</label>
 	<input type="text" name="q" value="" required="">
