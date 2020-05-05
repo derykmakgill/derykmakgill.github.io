@@ -40,8 +40,8 @@ minima:
     #   instance: example.com
 
     # GitLab instances
-     gitlab:
-        username: makgill
+    # gitlab:
+      #  username: makgill
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
