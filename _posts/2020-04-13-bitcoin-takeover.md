@@ -942,6 +942,16 @@ Just let that sink in a second.
 >
 >Make no mistake, bitcoin is at war.
 
+#### 23 March 2017
+
+The team behind the Brave privacy browser announces the [Basic Attention Token,](https://basicattentiontoken.org/announcing-a-new-blockchain-based-digital-advertising-platform/) which allows people to earn money for opting into ads while browsing online and tip content creators. The token is built on top of Ethereum because, according to the founder, their early experiments using Bitcoin [failed due to the fees and mempool backlogs](https://twitter.com/BraveSampson/status/1257026827643748354) and the fact that Lightning Network was not ready for mainsteam use.
+
+>We launched our prototype on Bitcoin. Network fees and congestion nearly buried our project. Our users were buying $5 in Bitcoin, and paying as much as 90% in fees. And having to wait a terribly-long time for their coins after that. BTC/LN wasn't ready.
+
+In another Tweet, he explains that the fees make small online payments impractical for normal people buying [small amounts of Bitcoin.](https://twitter.com/BraveSampson/status/1257117144048951296?s=20)
+
+>Back in 2016/2017, our users typically bought a few dollars at a time. It's difficult to get people excited about the blockchain when buying a few dollars of Bitcoin would cost nearly as much in transaction fees.
+
 #### 19 May 2017
 
 Bitcoin Twitter personality Saifedean Ammous authors an article on the [*Economics of Bitcoin as a settlement network.*](https://thesaifhouse.wpcomstaging.com/2017/05/19/economics-of-bitcoin-as-a-settlement-network/)
