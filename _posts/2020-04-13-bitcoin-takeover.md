@@ -848,6 +848,10 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >
 >That is why we are taking steps to implement a defensive patent strategy.
 
+#### 06 October 2016
+
+Blockstream CSO Samson Mow writes that Bitcoin [isn't for people who live on less than two dollars per day.](https://www.reddit.com/r/btc/comments/ahzog2/reminder_bitcoin_isnt_for_people_that_live_on/)
+
 #### 19 November 2016
 
 Bitcoin.com CEO Roger Ver—one of the earliest Bitcoin investors and the first major investor in Bitcoin companies—says the [censorship in r/Bitcoin is holding Bitcoin back.](https://twitter.com/rogerkver/status/800098062798503936)
