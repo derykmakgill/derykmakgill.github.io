@@ -1,6 +1,6 @@
 <div class="comments">
    
-       {% assign comments = site.data.comments[page.slug] | sort %}
+       {% assign comments = site.data.comments[page.slug] %}
   {% for comment in comments reversed %}
     {% assign commentData = comment[1] %}
     <article class="comment" id="{{ commentData._id }}">
