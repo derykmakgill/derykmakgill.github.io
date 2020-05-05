@@ -60,7 +60,7 @@ layout: default
 
 {% include comments.html %}
 
-<form class="comments" method="POST" action="{{ site.staticman.api }}">
+<form class="comment-form" method="POST" action="{{ site.staticman.api }}">
 	<div class="comment-header">Your email address will not be published. Required fields are marked *.</p>
   <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.permalink }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
