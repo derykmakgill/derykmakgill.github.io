@@ -16,8 +16,10 @@ layout: default
 <form method="POST" action="https://hooks.zapier.com/hooks/catch/7441009/or91whe/">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.permalink }}">
   <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
+	
+	<label for="freeName">Name </label>
 	<div class="textfield">
-		<label for="freeName">Name </label>
+		
 		<input name="fields[name]" placeholder="Your name*" type="text"></div>
 	<label for="freeEmail">Email </label>
   <div class="textfield"><input name="fields[email]" placeholder="Your email*" type="email"></div>
