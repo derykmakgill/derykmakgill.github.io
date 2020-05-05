@@ -1376,6 +1376,13 @@ He strongly crisizes the [troll culture popular at the company.](https://twitter
 
 Bitcoin Core influencer Tuur Demeester writes that ["at full maturity, using the Bitcoin blockchain will be as rare and specialized as chartering an oil tanker."](https://twitter.com/TuurDemeester/status/1133735055115866112?s=20)
 
+#### The same day
+
+Matt Corallo writes that the [worst part of Bitcoin's culture comes from some of Blockstream's employees.](https://twitter.com/TheBlueMatt/status/1133786902430146562?s=20)
+
+>The worst parts of Bitcoin culture reliably come from folks like @Excellion and a few of the folks he has hired at 
+@Blockstream.
+
 #### 12 December 2019
 
 Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
