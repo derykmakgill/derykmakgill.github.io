@@ -31,7 +31,7 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-      gitlab: makgill
+    #  gitlab: makgill
 
     # Mastodon instances
     # mastodon:
