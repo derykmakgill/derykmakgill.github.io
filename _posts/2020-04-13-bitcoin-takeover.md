@@ -809,6 +809,22 @@ Mosaic Ventures posts an article about their participation in the investment rou
 
 >The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
 
+#### 01 March 2016
+
+Bitcoin.com reports that some of their [Bitcoin Classic nodes were hit with a DDos attack](https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/) that led to a server being shut down by their ISP for several hours.
+
+CTO of Bitcoin.com, Emil Oldenburg, wrote that the purpose of the attack was the intimidate people from running the Bitcoin Classic software.
+
+>The purpose of this attack is to intimidate anyone running Bitcoin Classic. It’s the same modus operandi we saw with Bitcoin XT. This comes at a time when miners have started to mine Bitcoin Classic blocks and already have way more support than XT ever had. Someone, or some people, are buying DDOS attacks towards Classic in an attempt to stop the growth of Classic nodes and blocks. Some Core developers, and Adam Back, have stated that ‘Bitcoin is not a democracy’, while this description is correct for the current governance model; with the censorship, character assassinations, attacks against anyone who disagrees with the party line and sabotage against free choice, the current governance is more similar to North Korea.
+
+#### 02 March 2016
+
+CoinTelegraph reports that F2Pool, a Chinese mining pool which held the largest share of the Bitcoin network’s hashrate at 26% at the time, [had been experiencing a series of extreme DDoS attacks](https://cointelegraph.com/news/f2pool-suffers-from-series-of-ddos-attacks) after they began running Bitcoin Classic.
+
+>The attacks began to target the F2Pool Bitcoin mining pool almost immediately after the F2Pool team announced their decision to “test” Bitcoin Classic by launching a subpool in which miners can mine Bitcoin Classic blocks.
+
+According to CoinTelegraph, a hacker, or a hacking group, that goes by the online alias botneko-chan stated that he was [paid to launch professional DDoS attacks on F2Pool’s Bitcoin Classic subpools.](https://np.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0gj13y/)
+
 #### 05 March 2016
 
 Coinbase CEO Brian Armstrong says the [Core developers may be the biggest risk to Bitcoin](https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf#.qaggpgms9) in an article about the Satoshi Roundtable.
@@ -854,7 +870,7 @@ One deleted comment reads ["what could go wrong if Core said, lets HF to 2MB?"](
 
 #### 16 March 2016
 
-u/apexio posts that 42 Bitcoin projects he is [sponsoring](http://removeddit.com/r/Bitcoin/comments/29x3gl/i_want_to_help_bitcoin_projects_so_im_giving_away/) were [shut down by ongoing DDos attacks. He reports that only the Bitcoin Classic nodes he is running have been attacked.](https://removeddit.com/r/Bitcoin/comments/4aqi1s/these_42_bitcoin_projects_were_shutdown_by_an/)
+u/apexio posts that 42 Bitcoin projects he is [sponsoring](http://removeddit.com/r/Bitcoin/comments/29x3gl/i_want_to_help_bitcoin_projects_so_im_giving_away/) were [shut down by ongoing DDos attacks.](https://removeddit.com/r/Bitcoin/comments/4aqi1s/these_42_bitcoin_projects_were_shutdown_by_an/) He reports that only the Bitcoin Classic nodes he is running have been attacked.
 
 >18 months ago, I gave away 42 virtual servers to a bunch of awesome Bitcoin projects. The only requirement was a small donation to a Bitcoin accepting charity in order to prevent (me) being taken advantage of.
 >
