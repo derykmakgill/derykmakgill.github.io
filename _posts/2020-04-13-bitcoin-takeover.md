@@ -852,6 +852,22 @@ The post on r/Bitcoin was very popular and received 86% upvotes. Using Removeddi
 
 One deleted comment reads ["what could go wrong if Core said, lets HF to 2MB?"](https://removeddit.com/r/Bitcoin/comments/48zhos/_/d0nz17a/)
 
+#### 16 March 2016
+
+u/apexio posts that 42 Bitcoin projects he is [sponsoring](http://removeddit.com/r/Bitcoin/comments/29x3gl/i_want_to_help_bitcoin_projects_so_im_giving_away/) were [shut down by ongoing DDos attacks. He reports that only the Bitcoin Classic nodes he is running have been attacked.](https://removeddit.com/r/Bitcoin/comments/4aqi1s/these_42_bitcoin_projects_were_shutdown_by_an/)
+
+>18 months ago, I gave away 42 virtual servers to a bunch of awesome Bitcoin projects. The only requirement was a small donation to a Bitcoin accepting charity in order to prevent (me) being taken advantage of.
+>
+>After running for over a year, I had to shutdown all of these projects because the Bitcoin nodes were being DDoS'd, affecting my paying client base.
+>
+>I've been running this ISP since the early 90's. The attacks are still ongoing, directed at non-core nodes only, and are not fake.
+
+[u/botneko-chan takes credit](https://www.reddit.com/user/botneko-chan) and says he is [being paid](https://np.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0h62sv/) to conduct the attack on Bitcoin Classic but will not share who is behind it.
+
+>If you would ever order ddos, would you like ddoser to say that you ordered it? Would you pay him next time? And I'm attacking Classic, not Core
+
+>Exact payment is a secret. Tens of thousands range.
+
 #### 20 March 2016
 
 Luke Dashjr writes that the [Core devs know more about Bitcoin than Satoshi did.](https://www.reddit.com/r/btc/comments/4b7rpw/there_is_never_such_thing_as_too_much_demand/d16x5k3/)
