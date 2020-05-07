@@ -1,19 +1,19 @@
 title: Makgill
-##author: 
-  ##name:  Makgill
- ## email: deryk@makgill.ch
-description: 
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-  
+  line in _config.yml. 
+
 show_excerpts: false # set to true to show excerpts on the homepage
-permalink: pretty
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  
- # generate social links in footer
+
+  # generate social links in footer
   social_links:
     twitter: jekyllrb
     github:  jekyll
@@ -21,16 +21,16 @@ minima:
     # dribbble: jekyll
     facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    instagram: jekyll
+    linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-     telegram: jekyll
+    # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-     keybase: jekyll
+    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -44,25 +44,19 @@ minima:
     # - username: jekyll
     #   instance: example.com
     # - username: jekyll2
-    #   instance: example.com 
+    #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - contact.md
- - support.md
- - search.md
+#header_pages:
+# - about.md
+
 # Build settings
 theme: minima
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-collections: 
-  notes:
-    output: true
-    permalink: /notes/:year/:month/:title/
 
 staticman:
   api: "https://staticman3.herokuapp.com/v3/entry/github/derykmakgill/derykmakgill.github.io/master/comments"
