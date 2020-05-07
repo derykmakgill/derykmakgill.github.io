@@ -825,6 +825,8 @@ CoinTelegraph reports that F2Pool, a Chinese mining pool which held the largest 
 
 According to CoinTelegraph, a hacker, or a hacking group, that goes by the online alias botneko-chan stated that he was [paid to launch professional DDoS attacks on F2Pool’s Bitcoin Classic subpools.](https://np.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0gj13y/)
 
+One commenter says that the attack made him [shut down his Bitcoin Classic node](https://np.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0ha9j4/) because the attack was affecting his other services on his server.
+
 #### 05 March 2016
 
 Coinbase CEO Brian Armstrong says the [Core developers may be the biggest risk to Bitcoin](https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf#.qaggpgms9) in an article about the Satoshi Roundtable.
