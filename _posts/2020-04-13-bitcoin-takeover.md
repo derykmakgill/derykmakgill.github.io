@@ -640,6 +640,27 @@ Ten days after his anti-censorship post on Let’s Talk Bitcoin, former /r/bitco
 >
 >It is not at all unreasonable to suppose that core-devs have been contacted by the 'spooks' and are applying influence. Crippling bitcoin so that almost all of the value has to flow through side-channels and only large institutions can access the core network would be a great solution to what world governments consider as a major problem.
 
+#### The same day
+
+A Bitcoin XT node operator posts that [more and more nodes are being attacked](https://www.reddit.com/r/bitcoinxt/comments/3iumsr/udp_flood_ddos_attacks_against_xt_nodes/) and that his have been hit there times. He blames the attack on people who don't want Bitcoin XT.
+
+>It would seem that the conflict has taken a nasty turn, and some of the more extreme Core supporters have started just straight out DDoS attacking XT nodes. Not the silly bloom filter CPU exhaustion thing, but actual UDP flood attacks. Looking at a recent drop-off at XTNodes.com, it seems that this has started during the last 24 hours, and one of my nodes was hit three times in that period, on a dedicated IP that only runs a Bitcoin node and nothing else. (Not that they accomplished anything outside of saturating it for ten minutes or so.)
+>
+>Is this really how some people think they are going to "resolve" the situation? If this continues, I can easily see people starting to declare open season on non-XT nodes, and then we have a war going that no one wants.
+
+#### 02 September
+
+Another Bitcoin XT node operator complains the [DDos attacks keep happening and most aren't being discussed online.](
+https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/)
+
+One XT supporter comments that [this would be criminal in any other industry.](https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/cup2pqu?utm_source=share&utm_medium=web2x)
+
+>In any other industry, this would be consider industrial terrorism/espionage, and is highly criminal. From an outside perspective it just looks bad.
+
+Mike Hearn writes that the attackers are clearly trying to [stop anyone from running anything but Bitcoin Core](https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/cupb74s?utm_source=share&utm_medium=web2x) and extorting people.
+
+>The attackers have been telling pools to stop mining BIP 101 voting blocks if they want the attacks to stop. It's very clearly a Russian Bitcoiner who believes that everyone should use Core no matter what.
+
 #### 03 September
 
 An owner or representative from chunkhost.com posts in r/Bitcoin that their [customers running Bitcoin XT nodes are under DDOs attack.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/)
