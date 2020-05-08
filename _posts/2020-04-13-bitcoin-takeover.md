@@ -614,6 +614,10 @@ The entire article is worth reading but for space I've left much of it out. He c
 >
 >The future of bitcoin is not in the hands /u/theymos, or any particular developer. The future is what we, as an informed community, decide as a whole. If you want to support 1mb blocks then, great, argue that point and vote by running that version of the client software but, if you want to see bitcoin scale, then do so by voting for a client which enables those rules.
 
+#### 25 August 2015
+
+SlushPool announces it is [suspending voting on BIP 101 after a DDos attack.](https://slushpool.com/news/update-bip101-voting-disabled-because-of-ddos-attack/)
+
 #### 29 August 2015
 
 Ten days after his anti-censorship post on Let’s Talk Bitcoin, former /r/bitcoin moderator /u/jratcliff63367 announces that he has been [removed from his role.](https://www.reddit.com/r/bitcoin_uncensored/comments/3iwzmk/so_long_and_thanks_for_all_the_fish/) In the thread, /u/theymos chimes in to explain why he removed jratcliff:
@@ -674,6 +678,16 @@ Another deleted comment reads:
 >Bitcoin is not governed by Blockstream Core. They will understand this when the BIP101 fork happens.
 
 In total, over 80 comments were removed by r/Bitcoin moderators, most of which were unfortunately deleted too quickly for the Removeeddit tool to archive.
+
+#### The same day
+
+SlushPool [renables BIP 101 support after the DDos attack](https://bitcoinmagazine.com/articles/slush-pool-to-re-enable-bip-bitcoin-mining-1448902761) and says it hopes BIP 101 is adopted and that the limit on block size is an issue for businesses and users.
+
+>We’re not focused on December with our decision, but we still think the block-size limit should be increased,” Palatinus explained. “Sometimes there are already blocks full of valid transactions, and there’s not any particular reason why user experience with bitcoin transactions should be limited because of an arbitrary limit of 1 megabyte.
+>
+>We’re close friends to Paralelni Polis, the first – and only? – bitcoin-only cafe and co-working space, located in Prague near our offices. We have real-world experience with day-to-day bitcoin transactions of common users. We also see issues related with transactions not going through the Bitcoin network and how it affects bitcoin acceptance. For this reason we consider this an urgent issue.
+>
+>We personally hope BIP 101 will be adopted, but we do not want to enforce BIP 101 mining on our pool...
 
 #### 26 December 2015
 
