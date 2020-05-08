@@ -661,6 +661,10 @@ Mike Hearn writes that the attackers are clearly trying to [stop anyone from run
 
 >The attackers have been telling pools to stop mining BIP 101 voting blocks if they want the attacks to stop. It's very clearly a Russian Bitcoiner who believes that everyone should use Core no matter what.
 
+One more node operator writes that his node is ["constantly DoSed."](https://www.reddit.com/r/bitcoinxt/comments/3jemi9/my_node_is_constantly_dosed/?utm_source=share&utm_medium=web2x)
+
+>My only sword against DoS is changing my MAC address so my ISP assigns new IP. otherwise I would have to turn off my node because my work depends on my internet connection. I think there is more people that need to turn off their nodes because of this DoS attack.
+
 #### 03 September
 
 An owner or representative from chunkhost.com posts in r/Bitcoin that their [customers running Bitcoin XT nodes are under DDOs attack.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/)
