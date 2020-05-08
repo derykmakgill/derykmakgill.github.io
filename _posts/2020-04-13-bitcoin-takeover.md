@@ -829,6 +829,8 @@ Bitcoin Classic [releases a tool to help node operators quickly spin up nodes on
 
 [Chat logs between botneko-chan and Mircea Popescu](http://btcbase.org/log-search?q=%22%20T%22&page=3279) discuss DDos attacking Bitcoin Classic nodes and some possible payment details.
 
+![Popsecu Chat](https://i.imgur.com/YnOVqlA.png)
+
 botneko-chan writes that he will "keep ddosing classic for month" and is also "going to try ddos pool mining it"
 
 Mircea Popescu tells botneko-chan to "post an addy," and says "i'll send you some on the strength of his word."
