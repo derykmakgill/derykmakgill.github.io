@@ -959,6 +959,12 @@ Blockstream files a patent for [*transferring ledger assets between blockchains 
 
 The [inventors listed](https://www.reddit.com/r/btc/comments/6uoq7b/blockstreambitcoin_core_wants_to_force_everyone/) are Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timon and Pieter Wuille. Later this number is reduced to Greg Maxwell and Adam Back.
 
+#### 18 June 2016
+
+Mircea Popescu takes credit on his blog for the [Ethereum DAO hack.](http://trilema.com/2016/to-the-dao-and-the-ethereum-community-fuck-you/)
+
+>I have carefully examined the code of The DAO and decided to participate after finding the feature where splitting is rewarded with additional ether. I have made use of this feature and have rightfully claimed 3,641,694 ether, and would like to thank the DAO for this reward. 
+
 #### 01 July 2016
 
 Bitcoin.org co-owner 'Cobra' posts on Github that [he wants to update the Bitcoin whitepaper](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issue-163491953) because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
