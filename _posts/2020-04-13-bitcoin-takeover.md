@@ -809,6 +809,14 @@ Mosaic Ventures posts an article about their participation in the investment rou
 
 >The governance of Bitcoin Core, like many other open source projects, is technocratic, where a handful of “core devs” (a dynamic group that includes several Blockstream team-members) deliberate the merits of various changes to the protocol, and decide how to move the puck forward, hoping to convince each other and the wider industry of their consensus. The technocracy is at least meritocratic, in the sense that the core devs are recognized -- by their peers, the community itself -- based on their significant contributions to the code.
 
+#### 24 February 2016
+
+Bitcoin Classic [releases a tool to help node operators quickly spin up nodes on AWS.](https://www.reddit.com/r/Bitcoin_Classic/comments/47bgfr/classic_cloud_send_bitcoin_to_start_a_node/) As one Classic supporter comments, the goal is to [protect against hostile attempts to knock out their nodes.](https://www.reddit.com/r/Bitcoin_Classic/comments/47bgfr/classic_cloud_send_bitcoin_to_start_a_node/d0bw80a?utm_source=share&utm_medium=web2x)
+
+>Let me say - well done. This is something desperately needed to protect the Classic node network. It will allow home users to move to their full nodes to a relatively safe and affordable place that should be hard for criminals to suppress.
+
+
+
 #### 01 March 2016
 
 Bitcoin.com reports that some of their [Bitcoin Classic nodes were hit with a DDos attack](https://news.bitcoin.com/bitcoin-classic-targeted-by-ddos-attacks/) that led to a server being shut down by their ISP for several hours.
@@ -869,6 +877,21 @@ In the postscript, he says that r/Bitcoin is heavily censoring content about rai
 The post on r/Bitcoin was very popular and received 86% upvotes. Using Removeddit we can see that over [7% of the comments were deleted by moderators.](https://removeddit.com/r/Bitcoin/comments/48zhos/what_happened_at_the_satoshi_roundtable/)
 
 One deleted comment reads ["what could go wrong if Core said, lets HF to 2MB?"](https://removeddit.com/r/Bitcoin/comments/48zhos/_/d0nz17a/)
+
+#### 06 March 2016
+
+A post in r/bitcoin claims that 51% of Bitcoin Classic nodes are hosted on AWS. The point of the post is to demonstrate that Bitcoin Classic is conducting a sybill attack against the network, but Bitcoin Classic node operators claim the ongoing DDos attacks have [forced operators to use the cloud service](http://www.reddit.com/r/Bitcoin/comments/499bai/51_of_bitcoin_classic_nodes_hosted_on_aws/d0q2glj?utm_source=share&utm_medium=web2x) because it withstands the attacks better.
+
+>The ddos causes this centralization. A node running on Google or Amazon cloud can stand up better to ddos. Nodes on smaller VPS providers are vulnerable to ddos. A home node is great but some people want to make more bandwidth available to the network.
+
+>Yes, I moved my classic node from my home connection this weekend because of the ddos going on.
+
+>Yup. I've had no problems with my Azure nodes, but my home connection has been targeted several times. I'm testing VPN services so I can continue to run at home, however.
+
+>In direct response to the DDoS attack. Classic-cloud has been instrumental in diluting the attack.
+
+On the same day, another post in r/bitcoin claims that Bitcoin Classic node counts [have been dropping](https://www.reddit.com/r/Bitcoin/comments/49a0fs/bitcoin_classic_support_plateaus_and_drops_down/d0q92ki/?context=3) suggesting the attacks have had a cooling effect on node operators running Classic.
+
 
 #### 16 March 2016
 
