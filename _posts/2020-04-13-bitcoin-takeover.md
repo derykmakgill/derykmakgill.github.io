@@ -841,7 +841,7 @@ Mircea Popescu was described in the media at the time as ["one of the better kno
 
 Popescu was later [thanked](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/) in the popular pop-economics book "The Bitcoin Standard," which argues for a limited block size.
 
-He was also later accused by Gregory Maxwell of [posting child pornpgraphy online,](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fctiggk?utm_source=share&utm_medium=web2x) and [threatening to murder people.](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fcu3kvi?utm_source=share&utm_medium=web2x) 
+He was also later accused by Gregory Maxwell of [posting child pornpgraphy online,](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fctiggk?utm_source=share&utm_medium=web2x) and [threatening to murder people,](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fcu3kvi?utm_source=share&utm_medium=web2x) including [Andreas Antonoplous](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/)
 
 Prominent Bitcoin Twitter personality and small-block supporter BitcoinError Log, who in the coming years played a large role in the UASF effort to resist Segwit 2x writes years later that he learned alot from Mircea and that [he owed a lot of his actions defending against Segwit 2x to him.](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fcwqv16?utm_source=share&utm_medium=web2x)
 
