@@ -618,6 +618,10 @@ The entire article is worth reading but for space I've left much of it out. He c
 
 SlushPool announces it is [suspending voting on BIP 101 after a DDos attack.](https://slushpool.com/news/update-bip101-voting-disabled-because-of-ddos-attack/)
 
+They receive an extortion letter saying the attack would continue until they stop supporting Gavin Andresen's Bitcoin XT, per the [MIT Technology Review.](https://www.technologyreview.com/2015/09/08/166310/allegations-of-dirty-tricks-as-effort-to-rescue-bitcoin-falters/)
+
+>Alena Vranova, director of SatoshiLabs, said the company received a message saying that the attack would end once it turned off the ability for customers to declare support for Andresen’s idea. SatoshiLabs was forced to comply with that demand because the attack was powerful enough to cause connectivity problems for some Slush Pool miners. “This is a destructive behavior,” says Vranova. “I would admire someone who stands out, explains, and promotes his idea. This is just cowardly.”
+
 #### 29 August 2015
 
 Ten days after his anti-censorship post on Let’s Talk Bitcoin, former /r/bitcoin moderator /u/jratcliff63367 announces that he has been [removed from his role.](https://www.reddit.com/r/bitcoin_uncensored/comments/3iwzmk/so_long_and_thanks_for_all_the_fish/) In the thread, /u/theymos chimes in to explain why he removed jratcliff:
@@ -630,9 +634,25 @@ Ten days after his anti-censorship post on Let’s Talk Bitcoin, former /r/bitco
 >
 >It is not at all unreasonable to suppose that core-devs have been contacted by the 'spooks' and are applying influence. Crippling bitcoin so that almost all of the value has to flow through side-channels and only large institutions can access the core network would be a great solution to what world governments consider as a major problem.
 
+#### 03 September
+
+An owner or representative from chunkhost.com posts in r/Bitcoin that their [customers running Bitcoin XT nodes are under DDOs attack.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/)
+
+>We run chunkhost.com and a couple of days ago received a DDOS attack against one of our customers (as we sometimes do). Upon investigation, the customer explained he had been using the server as a bitcoin node for the backend for a bitcoin ATM for over a year with no issue. He just recently switched to XT to show support for BIP 101, and was summarily attacked!
+
+The founder of chunkhost Josh Jones told the [MIT Technology Review](https://www.technologyreview.com/2015/09/08/166310/allegations-of-dirty-tricks-as-effort-to-rescue-bitcoin-falters/) that the attack was clearly an attack against Bitcoin XT.
+
+>It seemed pretty clear. As soon as he switched, he got attacked,” says Josh Jones, a founder of ChunkHost. “Some people seem to be taking matters into their own hands.
+
+They ask in Reddit if anyone else running Bitcon XT has experienced a DDos attack and [several users confirm.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/)
+
+u/ChaosGrid writes that the attacks are at least an [indirect result of the rhetoric from people against Bitcoin XT.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/cuppfs7/)
+
+>I think these attacks are an indirect result of the language used by the anti-XT folks, deeming it a hostile fork and dangerous to bitcoin. While there is FUD spread on both sides, the action of censoring XT posts on the major bitcoin sites is unparalleled and makes me think that certain people actually like having 10% of the network getting DDOSed to "save" bitcoin.
+
 #### 04 September 2015
 
-r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services.
+r/bitcoin moderator u/hardleft121 announces he was removed by Theymos as moderator over a week ago and 'thanked' for his services. Evidence suggests he was removed for supporting Bitcoin XT.
 
 The response was largely outrage, the most [popular reply](https://www.reddit.com/r/Bitcoin/comments/3k0iji/i_am_no_longer_a_mod_of_rbitcoin_i_didnt_have/cuturbe?utm_source=share&utm_medium=web2x) suggesting Theymos appoint Hitler, Stalin and Mao as moderators. A now deleted user [wrote:](https://www.reddit.com/r/Bitcoin/comments/3k0iji/i_am_no_longer_a_mod_of_rbitcoin_i_didnt_have/cutuscp?utm_source=share&utm_medium=web2x)
 
@@ -647,6 +667,13 @@ The Bitcoin Foundation tweets a [thank-you to Blockstream](https://twitter.com/B
 >Today’s shoutout is to 
 @Blockstream who has funded more core dev than anyone, including us.
 
+#### 08 September 2015
+
+XT node operators complain that the [DDos attack against SlushPool began again](https://www.reddit.com/r/bitcoinxt/comments/3k4fkf/looks_like_ddos_attack_towards_slush_pool_started/) after they resumed mining blocks with Bitcoin XT, calling it "incredibly malicious."
+
+One user suggests that [Mircea Pepescu is behind the attack.](https://www.reddit.com/r/bitcoinxt/comments/3k4fkf/looks_like_ddos_attack_towards_slush_pool_started/)
+
+>I strongly suspect Popescu. He has the resources, he's vehemently anti bip101, and he said he'd do as much. Plus he's a huge asshole, which always helps.
 
 
 #### 05 October 2015
