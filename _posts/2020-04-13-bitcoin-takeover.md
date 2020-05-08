@@ -328,6 +328,12 @@ Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin wil
 
 Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream) that "Blockstream plans to extend the capabilities of Bitcoin through sidechains technology."
 
+#### 06 January 2015
+
+Mircea Pepescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
+
+>My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
+
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
@@ -649,6 +655,8 @@ They ask in Reddit if anyone else running Bitcon XT has experienced a DDos attac
 u/ChaosGrid writes that the attacks are at least an [indirect result of the rhetoric from people against Bitcoin XT.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/cuppfs7/)
 
 >I think these attacks are an indirect result of the language used by the anti-XT folks, deeming it a hostile fork and dangerous to bitcoin. While there is FUD spread on both sides, the action of censoring XT posts on the major bitcoin sites is unparalleled and makes me think that certain people actually like having 10% of the network getting DDOSed to "save" bitcoin.
+
+Another user [writes](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/cuq1cwp?utm_source=share&utm_medium=web2x) "this bullshit has Mircea Popescu written all over it."
 
 #### 04 September 2015
 
