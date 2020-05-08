@@ -965,6 +965,8 @@ Mircea Popescu takes credit on his blog for the [Ethereum DAO hack.](http://tril
 
 >I have carefully examined the code of The DAO and decided to participate after finding the feature where splitting is rewarded with additional ether. I have made use of this feature and have rightfully claimed 3,641,694 ether, and would like to thank the DAO for this reward. 
 
+He is praised by many for the theft, including [Saifedean Ammous.](https://twitter.com/saifedean/status/744222575169929216?s=20)
+
 #### 01 July 2016
 
 Bitcoin.org co-owner 'Cobra' posts on Github that [he wants to update the Bitcoin whitepaper](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325#issue-163491953) because it confuses people. The implication is clear by the timing. Cobra did not want people to think that Bitcoin was meant to scale on-chain.
