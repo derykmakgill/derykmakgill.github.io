@@ -816,6 +816,12 @@ Bitcoin Classic [releases a tool to help node operators quickly spin up nodes on
 >Let me say - well done. This is something desperately needed to protect the Classic node network. It will allow home users to move to their full nodes to a relatively safe and affordable place that should be hard for criminals to suppress.
 
 
+#### 28 February 2016
+
+Blocky.com reports that [Bitcoin Classic nodes are under heavy DDos](https://web.archive.org/web/20160302070655/http://www.blockcy.com/bitcoin-classic-nodes-under-ddos-attack) attacks that begin the following evening and that the attack is another example in a long line of escalating hostilities over the block size.
+
+>The current attack is the latest to show that a simple disagreement over scalability has descended into chaos and has brought to surface criminal elements within our community. The disagreement follows recommendations to increase capacity to 2MB as an emergency measure to release the pressure on transactions which are currently operating at maximum capacity with blocks being full. 
+
 
 #### 01 March 2016
 
