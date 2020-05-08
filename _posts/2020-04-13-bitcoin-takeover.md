@@ -824,11 +824,33 @@ Bitcoin Classic [releases a tool to help node operators quickly spin up nodes on
 >Let me say - well done. This is something desperately needed to protect the Classic node network. It will allow home users to move to their full nodes to a relatively safe and affordable place that should be hard for criminals to suppress.
 
 
+
+#### 26 February 2016
+
+[Chat logs between botneko-chan and Mircea Popescu](http://btcbase.org/log-search?q=%22%20T%22&page=3279) discuss DDos attacking Bitcoin Classic nodes and some possible payment details.
+
+botneko-chan writes that he will "keep ddosing classic for month" and is also "going to try ddos pool mining it"
+
+Mircea Popescu tells botneko-chan to "post an addy," and says "i'll send you some on the strength of his word."
+
+In order to understand the signifcance of this, we need to know a little about Mircea Popescu.
+
+Mircea Popescu was described in the media at the time as ["one of the better known critics of increasing the block size at all"](https://www.coingecko.com/buzz/bitcoin-leaders-speak-up-block-size) and had earlier threatened to attack attempts at raising the block size: ["my budget to sink this scam exceeds the budget of everyone involved on the supporting side."](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/#selection-83.138-83.229)
+
+Popescu was later [thanked](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/) in the popular pop-economics book "The Bitcoin Standard," which argues for a limited block size.
+
+He was also later accused by Gregory Maxwell of [posting child pornpgraphy online,](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fctiggk?utm_source=share&utm_medium=web2x) and [threatening to murder people.](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fcu3kvi?utm_source=share&utm_medium=web2x) 
+
+Prominent Bitcoin Twitter personality and small-block supporter BitcoinError Log, who in the coming years played a large role in the UASF effort to resist Segwit 2x writes years later that he learned alot from Mircea and that [he owed a lot of his actions defending against Segwit 2x to him.](https://www.reddit.com/r/Bitcoin/comments/eiskr6/i_was_reading_saifedeans_book_and_saw_mircea/fcwqv16?utm_source=share&utm_medium=web2x)
+
+>Mircea only communicated on his own terms, and that was his filter, but his ideas were extremely prescient, salient, and useful, and echo in Bitcoin's strongest social defenders today. My actions defending during UASF are owed in some part to him, for example.
+
 #### 28 February 2016
 
 Blocky.com reports that [Bitcoin Classic nodes are under heavy DDos](https://web.archive.org/web/20160302070655/http://www.blockcy.com/bitcoin-classic-nodes-under-ddos-attack) attacks that begin the following evening and that the attack is another example in a long line of escalating hostilities over the block size.
 
->The current attack is the latest to show that a simple disagreement over scalability has descended into chaos and has brought to surface criminal elements within our community. The disagreement follows recommendations to increase capacity to 2MB as an emergency measure to release the pressure on transactions which are currently operating at maximum capacity with blocks being full. 
+>The current attack is the latest to show that a simple disagreement over scalability has descended into chaos and has brought to surface criminal elements within our community. The disagreement follows recommendations to increase capacity to 2MB as an emergency measure to release the pressure on transactions which are currently operating at maximum capacity with blocks being full.
+
 
 
 #### 01 March 2016
