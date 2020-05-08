@@ -747,23 +747,6 @@ Another deleted comment reads:
 
 In total, over 80 comments were removed by r/Bitcoin moderators, most of which were unfortunately deleted too quickly for the Removeeddit tool to archive.
 
-#### 10 December 2015
-
-Mircea Popescu [posts a bounty for the murder of Pieter Wuille](http://trilema.com/2015/theres-a-one-bitcoin-reward-for-the-death-of-pieter-wuille-details-below/) and claims to have 'murdered Bitcoin XT' too.
-
->The first party to produce a verifiable death certificate for one Pieter Wuille, aka sipa, last known to exist somewhere around KU Leuven in Belgium will receive payment of 1 (one) Bitcoin to any valid* Bitcoin address of his specification.
-
-He says that Pieter Wuillie is pushing a "Gavinism" in supporting Segwit, which is an odd line of reasoning.
-
->This can not be emphasized enough : you can not be building any type of business on any sort of Gavinism, because they will not survive on the middle term. It's not just the Bitcoins, that you would have lost had I not murdered "XT". 
-
-He also writes that you don't own Bitcoin unless you run a full Bitcoin node.
-
->No, "you" don't hold any Bitcoin until and unless you control a full node that has a wallet. If for instance you're "using blockchain.info" then USG has your Bitcoin, and you use them, maybe, sometimes, at their pleasure. Or not. 
-Nodes means "fully validating" nodes. The other version, the faux-nodes, the "not really nodes", the "I can't believe it's not a node" SPV nonsense are the ones that require the specification just like when an honest man meets a thief the honest man is Jim and the thief is Jeff the Thief - not the other fucking way around. 
->
->Oh, of course you're the ones running non-nodes, who want to pretend otherwise, right
-
 #### The same day
 
 SlushPool [renables BIP 101 support after the DDos attack](https://bitcoinmagazine.com/articles/slush-pool-to-re-enable-bip-bitcoin-mining-1448902761) and says it hopes BIP 101 is adopted and that the limit on block size is an issue for businesses and users.
@@ -773,6 +756,23 @@ SlushPool [renables BIP 101 support after the DDos attack](https://bitcoinmagazi
 >We’re close friends to Paralelni Polis, the first – and only? – bitcoin-only cafe and co-working space, located in Prague near our offices. We have real-world experience with day-to-day bitcoin transactions of common users. We also see issues related with transactions not going through the Bitcoin network and how it affects bitcoin acceptance. For this reason we consider this an urgent issue.
 >
 >We personally hope BIP 101 will be adopted, but we do not want to enforce BIP 101 mining on our pool...
+
+#### 10 December 2015
+
+Mircea Popescu [posts a bounty for the murder of Pieter Wuille](http://trilema.com/2015/theres-a-one-bitcoin-reward-for-the-death-of-pieter-wuille-details-below/) and claims to have 'murdered Bitcoin XT' too.
+
+>The first party to produce a verifiable death certificate for one Pieter Wuille, aka sipa, last known to exist somewhere around KU Leuven in Belgium will receive payment of 1 (one) Bitcoin to any valid* Bitcoin address of his specification.
+
+He says that Pieter Wuillie is pushing a "Gavinism" in supporting Segwit, which is an odd line of reasoning, but indicates an obvious violent opposition to anything he associates with Gavin, XT, etc.
+
+>This can not be emphasized enough : you can not be building any type of business on any sort of Gavinism, because they will not survive on the middle term. It's not just the Bitcoins, that you would have lost had I not murdered "XT". 
+
+He also writes that you don't own Bitcoin unless you run a full Bitcoin node.
+
+>No, "you" don't hold any Bitcoin until and unless you control a full node that has a wallet. If for instance you're "using blockchain.info" then USG has your Bitcoin, and you use them, maybe, sometimes, at their pleasure. Or not. 
+Nodes means "fully validating" nodes. The other version, the faux-nodes, the "not really nodes", the "I can't believe it's not a node" SPV nonsense are the ones that require the specification just like when an honest man meets a thief the honest man is Jim and the thief is Jeff the Thief - not the other fucking way around. 
+>
+>Oh, of course you're the ones running non-nodes, who want to pretend otherwise, right
 
 #### 26 December 2015
 
