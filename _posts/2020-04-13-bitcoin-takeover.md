@@ -715,6 +715,14 @@ Despite the unpopularity of the issue, it is committed the following day and Coi
 
 >There is also no "censorship issue" - that's a bogus accusation against /u/theymos (who is not a dev) because altcoiners want to trick people into thinking their altcoin is Bitcoin in Bitcoin communities, and altcoins aren't even allowed here as a rule.
 
+#### 27 December 2015
+
+Coinbase is [temporarily taken down](https://bitcointalk.org/index.php?topic=1306974.0) by a [DDos attack.](https://www.techworm.net/2015/12/hacker-ddos-coinbase-website-down.html) The attackers appear to have been [professionals.](https://twitter.com/L7Crew)
+
+According to developer [Mike Hearn,](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7) the attack was a response to Coinbase's decision to run XT.
+
+>When Coinbase, months after the launch, announced they had finally lost patience with Core and would run XT, they too were forced offline for a while.
+
 #### 28 December 2015. 
 
 A rogue /r/bitcoin mod going by the username /u/CensorshipIsTheWorst [leaked the following conversation from the /r/Bitcoin mod-mail:](https://www.reddit.com/r/btc/comments/3yj7r0/coinbase_censorship/)
