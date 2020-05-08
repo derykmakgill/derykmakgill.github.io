@@ -237,6 +237,14 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 >
 >First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
 
+#### 26 May 2014
+
+[Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
+
+>But if it doesn’t stay that way, I will find you and I will kill you with my bare hands, how about that.
+
+Mircea is banned from Twitter.
+
 #### 05 October 2014
 
 A user reported an issue on the Gentoo bug forum that a version of [bitcoind (the official reference client for interacting with the bitcoin network) distributed with Gentoo was blocking particular bitcoin addresses.](https://bugs.gentoo.org/524512)
