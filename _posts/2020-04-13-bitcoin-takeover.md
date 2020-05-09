@@ -299,6 +299,18 @@ Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/sh
 
 A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
 
+#### 06 October 2014
+
+Gavin Andresen [publishes a post](https://web.archive.org/web/20150130122517/https://blog.bitcoinfoundation.org/a-scalability-roadmap/) proposing that the 1MB limit be raised to allow for scalability.
+
+He argues that the 1mb fix was always a temporary hack and that Satoshi always intended to raise the block size.
+
+>Back in 2010, after Bitcoin was mentioned on Slashdot for the first time and bitcoin prices started rising, Satoshi rolled out several quick-fix solutions to various denial-of-service attacks. One of those fixes was to drop the maximum block size from infinite to one megabyte (the practical limit before the change was 32 megabytes– the maximum size of a message in the p2p protocol). The  intent has always been to raise that limit when transaction volume justified larger blocks.
+
+He also writes that the expectation of Bitcoin holders from the start has always been that Bitcoin would scale up and that meeting those expectations is the same as meeting the expectation that Bitcoin would never increase the coin limit.
+
+>I think the maximum block size must be increased for the same reason the limit of 21 million coins must NEVER be increased: because people were told that the system would scale up to handle lots of transactions, just as they were told that there will only ever be 21 million bitcoins.
+
 #### 22 October 2014
 
 [*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
