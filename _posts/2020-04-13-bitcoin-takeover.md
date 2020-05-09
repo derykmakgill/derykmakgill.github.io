@@ -668,7 +668,7 @@ A Bitcoin XT node operator posts that [more and more nodes are being attacked](h
 >
 >Is this really how some people think they are going to "resolve" the situation? If this continues, I can easily see people starting to declare open season on non-XT nodes, and then we have a war going that no one wants.
 
-#### 02 September
+#### 02 September 2015
 
 Another Bitcoin XT node operator complains the [DDos attacks keep happening and most aren't being discussed online.](
 https://www.reddit.com/r/bitcoinxt/comments/3jg2rt/the_ddoses_are_still_real/)
@@ -685,7 +685,7 @@ One more node operator writes that his node is ["constantly DoSed."](https://www
 
 >My only sword against DoS is changing my MAC address so my ISP assigns new IP. otherwise I would have to turn off my node because my work depends on my internet connection. I think there is more people that need to turn off their nodes because of this DoS attack.
 
-#### 03 September
+#### 03 September 2015
 
 An owner or representative from chunkhost.com posts in r/Bitcoin that their [customers running Bitcoin XT nodes are under DDOs attack.](https://www.reddit.com/r/Bitcoin/comments/3jj2hf/bitcoin_xt_nodes_being_ddosed/)
 
@@ -734,6 +734,30 @@ One user suggests that [Mircea Pepescu is behind the attack.](https://www.reddit
 /u/raisethelimit is [banned permanentely](https://www.reddit.com/r/bitcoinxt/comments/3njzfz/ive_been_banned_too/cvoqzof?utm_source=share&utm_medium=web2x) from r/bitcoin after asking Greg Maxwell to [stop posting in r/Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/3nhq5a/deprecating_bitcoin_core_visualizing_the/cvoq5m4?utm_source=share&utm_medium=web2x)
 
 ![Greg Maxwell](https://i.imgur.com/jHPZwbP.png)
+
+#### 03 November 2015
+
+Brian Armstrong says the BIP 101 proposal for Bitcoin XT is the [best proposal Coinbase has seen so far for scaling Bitcoin.](https://bitcoinmagazine.com/articles/coinbase-ceo-brian-armstrong-bip-is-the-best-proposal-we-ve-seen-so-far-1446584055)
+
+>We are open to evaluating all proposals which increase the block size. But we do plan to upgrade around the second week of December, so this will require working solutions in code by then. The only one I’m aware of which currently has working code is BIP 101...
+>
+>In my view, Bitcoin XT is the best option I’ve seen so far. Not just because it has working code, but also because it has a simple implementation that is easy to understand, the block-size increases seem about right to me, and I have confidence in the people behind the project. My preference at this point would be to have Gavin step up as the final decision-maker on Bitcoin XT, and have the industry move to that solution with help from Mike Hearn, Jeff Garzik and others that wish to do so.
+
+He also says that he has been disapointed in the Bitcoin Core team and that capacity planning is important, growth is not predictable, and they intend to upgrade to Bitcoin XT whether Core agrees or not,.
+
+>We will upgrade regardless of whether Bitcoin Core is updated. Capacity planning is something you should try to get ahead of. Growth can be unpredictable, and I want to remove all blockers to Bitcoin’s success. I’ve been disappointed to see how slow Bitcoin Core has moved on this issue, and we’re open to switching forks.
+
+#### 05 November 2015
+
+In a comment on r/Bitcoin that is downvoted over 700 times, Theymos writes that if Coinbase chooses Bitcoin XT, [it does not belong on r/Bitcoin, Bitcoin.org, and BitcoinTalk.](https://www.reddit.com/r/Bitcoin/comments/3rejl9/coinbase_ceo_brian_armstrong_bip_101_is_the_best/cwpglh6?utm_source=share&utm_medium=web2x) The threat is obvious: support Bitcoin XT and your business will be punished by Theymos and others.
+
+>If Coinbase promotes XT to customers on coinbase.com and/or switches all of its full nodes to BIP 101 software, then Coinbase is no longer using the Bitcoin currency, and it doesn't belong on r/Bitcoin.
+>
+>This also applies to bitcointalk.org (where Coinbase would be restricted to the altcoin section). Bitcoin.it and bitcoin.org have similar policies. In fact, Coinbase was already almost removed from bitcoin.org due to your past statements in this matter.
+
+Theymos also writes that people need to listen more to Blockstream's Greg Maxwell and Core developer Wladimir.
+
+>If Coinbase is actually considering doing this, then you need to spend less time reading comments from idiots on r/Bitcoin and more time talking to people who actually know what they're talking about. If you have not had a long conversation with Wladimir or Greg about this issue, then WTF are you even doing?
 
 #### 30 November 2015
 
@@ -787,6 +811,8 @@ Nodes means "fully validating" nodes. The other version, the faux-nodes, the "no
 >Oh, of course you're the ones running non-nodes, who want to pretend otherwise, right
 
 #### 26 December 2015
+
+Coinbase CEO Brian Armstrong [announces](https://archive.is/PYwTA) they will run Bitcoin XT on their production servers.
 
 Cobra makes a Github issue to [remove Coinbase from the "choose your wallet" page on Bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1178) to punish them for running a Bitcoin XT node in addition to their Bitcoin Core node.
 
