@@ -243,7 +243,11 @@ Peter Todd releases a video on why the [blocksize limit keeps Bitcoin free and d
 
 <script src="https://fast.wistia.com/embed/medias/j58llpj0w6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div style="margin-bottom: 15px;" class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative; margin-bottom: 15px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%; margin-bottom: 10px;"><div class="wistia_embed wistia_async_j58llpj0w6 videoFoam=true" style="height:100%;position:relative;width:100%; margin-bottom: 10px;"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%; margin-bottom: 10px;"><img src="https://fast.wistia.com/embed/medias/j58llpj0w6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%; margin-bottom: 15px;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
-Responses to the video on BitcoinTalk largely agree the video is too dogmatic and radical. Some are worth looking at because they give us a good understanding of the strong arguments made in defense of moderate scaling at the time. 
+The video is paid for by a psuenonymous figure named John Dillon, who claimed in [leaked emails](https://archive.is/PK1I1) his day job is high up in an intelligence agency and about whom [Gavin Andresen later wrote:](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html)
+
+>I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+
+Responses to the video upon publication on BitcoinTalk largely agree the video is too dogmatic and radical. Some are worth looking at because they give us a good understanding of the strong arguments made in defense of moderate scaling at the time. 
 
 Others show clearly that many people who would later argue for small blocks first argued for moderate scaling.
 
@@ -291,6 +295,23 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 >
 >The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
 
+#### 16 November 2013
+
+Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
+
+The emails prove that a US intelligence agent was instrumental in funding the video Peter Todd made about keeping the Bitcoin blocks small. He also asks about potentially hiring Peter Todd to implement some "important" Bitcoin features. Some selections from the leak are provided below.
+
+>Please don't make this public, but my day job involves intelligence, and I'm in a relatively high position.
+
+>To clarify Keep Bitcoin Free! is Peter's project, not mine. I only contributed funds and offered to let him use my name publicly as a supporter.
+
+>I see that Peter Todd recently completed his audit report, even writing a small patch for Litecoin. Could you comment a bit on how that process went? I and someone else may want to hire him directly, as opposed to the bounties I've offered before, to implement some Bitcoin features and we want to get a sense of how it all went.
+
+Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be obsessed with him.
+
+>I know, I'll admit he kinda creeps me out a bit sometimes... he's admitted he reads all my posts.
+
+The conclusion to draw is unclear. Was John Dillon actually an intelligence agent like he claimed? Was he trying to harm Bitcoin or help it? Mike Hearn writes ["I'm not sure what this "leak" is trying to prove"](https://bitcointalk.org/index.php?topic=335658.msg3615820#msg3615820) and indeed it's hard to draw any firm opinion other than the fact that the small-block video was indeed funded by a self-proclaimed agent of the state.
 
 #### 26 May 2014
 
