@@ -237,6 +237,59 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 >
 >First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
 
+#### 17 May 2013
+
+Peter Todd releases a video on why the [blocksize limit keeps Bitcoin free and decentralized.](https://bitcointalk.org/index.php?topic=208200.0)
+
+Responses to the video on BitcoinTalk largely agree the video is too dogmatic and radical. Some are worth looking at because they give us a good understanding of the strong arguments made in defense of moderate scaling at the time. 
+
+Others show clearly that many people who would later argue for small blocks first argued for moderate scaling.
+
+Future Blockstream Co-Founder Greg Maxwell writes that he is worried the video is overly [dogmatic and will make people falsely think the blocksize can't be raised at all.](https://bitcointalk.org/index.php?topic=208200.msg2182597#msg2182597)
+
+>I do cringe just a little at the over-simplification of the video...  and worry a bit that in a couple years it will be clear that 2mb or 10mb or whatever is totally safe relative to all concerns— perhaps even mobile devices with tor could be full nodes with 10mb blocks on the internet of 2023, and by then there may be plenty of transaction volume to keep fees high enough to support security—  and maybe some people will be dogmatically promoting a 1MB limit because they walked away from the video thinking that 1MB is a magic number rather than today's conservative trade-off.  200,000 - 500,000 transactions per day is a good start, indeed, but I'd certainly like to see Bitcoin doing more in the future.
+
+He also argues that a blocksize restriction [makes Bitcoin worse for everyday payments](https://bitcointalk.org/index.php?topic=208200.msg2185876#msg2185876) and that the rise in fees has already turned people away from Bitcoin.
+
+>Bitcoin as practical unit for common every days payment cheaply available to as many people as possible— practically any block size restriction is bad. It's also completely clear to me that transaction costs— even insubstantial ones— have already turned some people off from using Bitcoin. 
+
+One Bitcoiner writes that the video paints a [totally dishonest picture of Bitcoin](https://bitcointalk.org/index.php?topic=208200.msg2185282#msg2185282) and that Peter Todd is so obsessed with tinkering and tesing that Bitcoin will never grow.
+
+>The video is *completely dishonest from the point where data-centers is mentioned.* It makes the false case that up to 1MB blocks allow for decentralization and anything larger needs PayPal-like server farms for each node. It may be that the network would hum along fine with 2MB or 5MB blocks right now. We just don't know.
+>
+>If Peter Todd had run NASA's Apollo space program no astronauts would ever have landed on the moon because they would still be doing Earth orbit missions, tinkering with the technology.
+
+Another forum member points out that [small blocks will lead to centralization of on-chain Bitcoin payment processors,](https://bitcointalk.org/index.php?topic=208200.msg2185799#msg2185799) defeating the purpose of having decentralized validation of blocks.
+
+>With your design, no more then 5 payment processors will have 80% share of all bitcoin transactions because this is how things work, you can take the clue practically from any other global market consolidation. So what is the point of having decentralized validation system if a user has to choose between 5 centralized solutions to make a transaction?
+
+Solex warns that deliberately crippling Bitcoin's on-chain transaction throughput will lead to a small handful of banks controlling the transactions and hints that they might have a vested intererst in doing just that.
+
+>In Peter's vision of the future those centralized solutions will all be Fidelity-bonded (Chaum-trusted) banks.
+https://bitcointalk.org/index.php?topic=146307.0
+>
+>While I think the idea of them is very good, they must take market share of transactions on their own merits, not because Bitcoin is deliberately crippled.
+
+Edmund Edgar writes that [Bitcoin mining is competitive by nature](https://bitcointalk.org/index.php?topic=208200.msg2186414#msg2186414) and that if the competition leads to some mining centralization, that is a flaw of Bitcoin itself and not something that can be fixed by throttling it and keeping it as a hobby project.
+
+>Bitcoin is designed to make mining a competitive market, so as more efficient miners show up, less efficient miners will constantly be finding that they can't operate at a profit and forced to close. The network connection for transmitting the blocks is a completely trivial factor compared to the raw economics involved in buying hardware and operating it to turn electricity into hash power more cheaply than anyone else.
+>
+>Centralization of mining power may turn out to be a serious problem, but if it is, it's a fundamental problem with the Bitcoin design, not something that you can prevent by throttling the network to 7 transactions per second. The only way throttling the network might help would be if it kills Bitcoin's growth and makes mining so unprofitable that only hobbyists bother with it.
+
+
+#### 28 May 2013
+
+In the ongoing discussion about the Peter Todd video, a forum member [points out](https://bitcointalk.org/index.php?topic=208200.msg2293256#msg2293256) that Peter Todd's limited blocks + high fees solution will lead to proprietary payment networks, a sort of PayPal 2.0 rather than what Bitcoin was intended to be.
+
+>This is just my opinion, but I think the vast majority of people would prefer a fully automated p2p network that's made up of thousands of nodes operated by enterprises, than a fully automated p2p network with hundreds of thousands of nodes operated by hobbyists, but with the disadvantage that you need to trust third party payment processors for any kind of real world use of currency.
+>
+>If we're going to use proprietary networks (and they have to be networks to avoid expensive on-chain transactions) to transfer bitcoin credit, instead of bitcoin itself around, we can just use banks, or some successor to e-gold or something.
+>
+>Limiting Bitcoin to 7 tps in my opinion virtually guarantees it will never have significant impact, because I believe people will opt for government-regulated networks, or alternative blockchains, if Bitcoin, as a p2p network, loses its transaction fee advantage.
+>
+>The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
+
+
 #### 26 May 2014
 
 [Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
