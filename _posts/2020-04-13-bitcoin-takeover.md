@@ -1607,6 +1607,12 @@ Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitco
 >
 >Therefore, starting today, we are winding down support for Bitcoin payments. Over the next three months we will work with affected Stripe users to ensure a smooth transition before we stop processing Bitcoin transactions on April 23, 2018.
 
+#### 15 February 2018
+
+Ethereum creator Vitalik Buterin says what Theymos has done to r/Bitcoin with censorship is ["deplorable."](https://twitter.com/VitalikButerin/status/964126608654151681?ref_src=twsrc%5Etfw_
+
+>I consider Theymos's moderation policies on /r/bitcoin absolutely deplorable, but if the subreddit had been called /r/lounge_of_theymos the whole time instead, then it would be 100% totally ok.
+
 #### 20 April 2018
 
 CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://www.cheapair.com/blog/a-letter-to-our-bitcoin-customers/) and other coins [because they offer lower fees and better transaction experiences than Bitcoin.](https://news.bitcoin.com/expedia-drops-bitcoin-payments-official-confirms/)
