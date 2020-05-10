@@ -354,6 +354,18 @@ Mircea Pepescu writes a blog post [threatening to destroy any attempt to raise t
 
 >My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
 
+#### 07 January 2015
+
+Mircea Popescu [describes a plan to manipulate the market and financially harm anyone supporting Bitcoin XT.](http://btcbase.org/log/?date=07-01-2015#967332) The attack is described further in a [blog post](http://qntra.net/2015/01/the-hard-fork-missile-crisis/) by another Bitcoin Core supporter.
+
+>As the Giga-blockchain and main-blockchain continue to grow from the fork, those actively attacking the Giga-Blockchain will create many transactions that allow their main-blockchain coins to duplicate over to the Giga-blockchain while remaining safely on the main-blockchain. The transactions that succeed can then be used to acquire more main-blockchain coins upon which the cycle repeats. Eventually the blockchain with the most financial resources behind it will continue to grow at a faster pace, while the other slowly, and eventually stops growing altogether.
+>
+>It will be impossible for the Giga-chain to keep 1:1 parity with the main chain from which it forks, they contain different transaction, although some may overlap. Here a user broadcasts a transaction with inputs originating on the Main-chain, and is eventually included in a block on the Giga-chain, but not on the Main-chain. The coin is essentially duplicated onto both chains.
+>
+>Those siding with the wrong chain who end up accepting duplicated transactions from the other chain, such as a purchase from an exchange running on the losing blockchain, will lose those coins when the dust settles. No war is without casulties, the Great Blockchain Civil War will be no different.
+
+http://btcbase.org/log/?date=07-01-2015#967332
+
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
@@ -607,6 +619,16 @@ A now-deleted user responds in the thread [confirming he was banned](https://www
 >Now, I understand this graph is just getting started, but it doesn't look good for them 24 hours in:
 >
 >http://www.xtnodes.com
+
+#### 17 August 2015
+
+[The *Not Bitcoin XT* spoof node is released.](https://bitcointalk.org/index.php?topic=1154520.0) The purpose of the node is to deceive Bitcoin XT nodes, prevent correct detection of Bitcoin XT adoption, and cause premature forks for anyone trying to support BIP101.
+
+>This version is indistinguishable from Bitcoin XT 0.11A except that it will not actually hard fork to BIP101, yet appears on the p2p network as Bitcoin XT 0.11A replete with features, yet at a consensus level behaves just like Bitcoin Core 0.11. If it is used to mine, it will produce XT block versions without actually supporting >1MB blocks.
+>
+>Running this version and/or mining with XT block versions will make it impossible for the Bitcoin XT network to detect the correct switchover and cause a premature fork of anyone foolish enough to support BIP101 without wide consensus from the technical community.
+>
+>It prevents correct detection of Bitcoin XT adoption in the wild since usage will be known to have been tampered with and thus all statistical data gathered by getnodes can only be considered unreliable.
 
 #### 19 August 2015 
 
