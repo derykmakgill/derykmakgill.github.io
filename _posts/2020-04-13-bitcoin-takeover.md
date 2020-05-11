@@ -247,7 +247,7 @@ Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty him
 
 #### 17 May 2013
 
-Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is paid for by the psuednonymous US intelligence agent John Dillon according to [leaked emails.](https://archive.is/PK1I1)
+Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to [leaked emails.](https://archive.is/PK1I1)
 
 <script src="https://fast.wistia.com/embed/medias/j58llpj0w6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div style="margin-bottom: 15px;" class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative; margin-bottom: 15px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%; margin-bottom: 10px;"><div class="wistia_embed wistia_async_j58llpj0w6 videoFoam=true" style="height:100%;position:relative;width:100%; margin-bottom: 10px;"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%; margin-bottom: 10px;"><img src="https://fast.wistia.com/embed/medias/j58llpj0w6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%; margin-bottom: 15px;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
