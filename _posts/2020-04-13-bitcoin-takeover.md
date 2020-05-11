@@ -461,7 +461,7 @@ Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-121
 
 #### 06 January 2015
 
-Mircea Pepescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
+Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
 
 >My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
 
@@ -476,6 +476,20 @@ Mircea Popescu [describes a plan to manipulate the market and financially harm a
 >Those siding with the wrong chain who end up accepting duplicated transactions from the other chain, such as a purchase from an exchange running on the losing blockchain, will lose those coins when the dust settles. No war is without casulties, the Great Blockchain Civil War will be no different.
 
 http://btcbase.org/log/?date=07-01-2015#967332
+
+#### 12 January 2015
+
+In response to Gavin Andresen's argument that Bitcoin's block size must be raised so more people can use it, Mircea Popescu writes in an unhinged rant that [Bitcoin is not for poor people.](http://trilema.com/2015/lets-address-some-of-the-more-common-pseudo-arguments-raised-by-the-very-stupid-people-that-like-the-gavin-scamcoin-proposal/)
+
+>Bitcoin isn't for everybody...
+>
+>Should blocks ever become full, older coinbases will be prioritized over newer coinbases, and larger mining fees and transactions prioritized over smaller mining fees and smaller transactions. This means that someone who wishes to pay for very little with Bitcoin will be forced to use something else, so to speak is forced to "give his seat" to someone richer. This is exactly the point and the intent of Bitcoin : to force the poor to yield to the rich, unversally, as a matter of course.
+>
+>You may not like this, but that is entirely an emotional problem of yours, which you're welcome to resolve any way you can: stop being poor, take a lot of pills, whatever...
+>
+>Run along now, back to playing in the mud with the other naked kids in your village. Bitcoin's just not for your kind.
+
+He also asserts without evidence that Gavin Andresen is a mole for the US Government and threatens to "humiliatingly defeat" him.
 
 #### 12 June 2015
 
