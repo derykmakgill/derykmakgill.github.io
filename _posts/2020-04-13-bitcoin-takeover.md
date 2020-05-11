@@ -329,6 +329,14 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 
 >I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
 
+#### 18 September 2013
+
+Theymos writes in a now [deleted post](https://archive.is/YAYq6) that a handful of moderators should not control "truth" on the Bitcoin forums.
+
+>The free and open discussions on this forum help individuals and the Bitcoin community achieve Truth. Everyone has some wisdom or knowledge to contribute to a discussion, and everyone who reads the discussion and gains that knowledge gets closer to the Truth. This is much more effective than having truth dictated by a handful of moderators or voted on by an electorate.
+
+This is an important point to remember because we will see in the coming years that Theymos starts doing exactly the opposite with devestating effects.
+
 #### 16 November 2013
 
 Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
