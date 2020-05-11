@@ -237,15 +237,37 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 >
 >First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
 
+#### 18 April 2013
+
+Someone by the name of John Dillon (john.dillon892@googlemail.com) emails the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
+
+John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that his day job is high up in a US intelligence agency. He says that he doesn't like what the government is doing and wants to make up for it by helping Bitcoin.
+
+Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
+
 #### 17 May 2013
 
-Peter Todd releases a video on why the [blocksize limit keeps Bitcoin free and decentralized.](https://bitcointalk.org/index.php?topic=208200.0)
+Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is paid for by the psuednonymous US intelligence agent John Dillon according to [leaked emails.](https://archive.is/PK1I1)
 
 <script src="https://fast.wistia.com/embed/medias/j58llpj0w6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div style="margin-bottom: 15px;" class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative; margin-bottom: 15px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%; margin-bottom: 10px;"><div class="wistia_embed wistia_async_j58llpj0w6 videoFoam=true" style="height:100%;position:relative;width:100%; margin-bottom: 10px;"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%; margin-bottom: 10px;"><img src="https://fast.wistia.com/embed/medias/j58llpj0w6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%; margin-bottom: 15px;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
-The video is paid for by a psuenonymous figure named John Dillon, who claimed in [leaked emails](https://archive.is/PK1I1) his day job is high up in an intelligence agency and about whom [Gavin Andresen later wrote:](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html)
+The YouTube responses are mostly negative and some are worth looking more at.
 
->I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+[Dan Smith](https://www.youtube.com/watch?v=cZp7UGgBR0I&lc=UggB-7XeRsy4y3gCoAEC) writes that the video is FUD designed to trick people with false equivocations.
+
+>This is total FUD.  How can they equate 20 MB to needing huge centralized institutions.  Anyone in a first world nation living in an urban area can run a node even if we magically jumped to 20 MB right away (which won't happen).   How can someone be smart and creative enough to make a quality video like this not understand basic concepts is beyond me.
+
+CarrolFilms points out that the [creator must have been bribed,](https://www.youtube.com/channel/UC1MNXlqOpPdm9iRK_trOePQ) which is in fact true.
+
+>Who ever wrote this and made this must've been bribed to make this. It probably makes sense to those that are new to bitcoin, but for those that have an understanding can relate to the amount of crap this video is filled with.
+
+Another user compares the block size limit to a [production quota.](https://www.youtube.com/channel/UCwBccIoHJSKrEc8W0lyRwmw)
+
+>Artificially limiting the block size, i.e. the network capability to process transactions is just plain and simple soviet quota control, the central planner that decides how many loafs of bread must be produced because otherwise "the bakers are too stupid to know, and they will run out of business".
+
+Michael Meaden says it is [Orwellian propaganda.](https://www.youtube.com/channel/UCRk_myJ7XEzB2ZoEc4IYDiA)
+
+>Went from information to disinformation at 0:55, full cringe at 1:28, straight up Orwell at 2:28.
 
 Responses to the video upon publication on BitcoinTalk largely agree the video is too dogmatic and radical. Some are worth looking at because they give us a good understanding of the strong arguments made in defense of moderate scaling at the time. 
 
@@ -295,6 +317,12 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 >
 >The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
 
+#### 30 August 2013
+
+[Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
+
+>I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+
 #### 16 November 2013
 
 Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
@@ -312,6 +340,7 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 >I know, I'll admit he kinda creeps me out a bit sometimes... he's admitted he reads all my posts.
 
 The conclusion to draw is unclear. Was John Dillon actually an intelligence agent like he claimed? Was he trying to harm Bitcoin or help it? Mike Hearn writes ["I'm not sure what this "leak" is trying to prove"](https://bitcointalk.org/index.php?topic=335658.msg3615820#msg3615820) and indeed it's hard to draw any firm opinion other than the fact that the small-block video was indeed funded by a self-proclaimed agent of the state.
+
 
 #### 26 May 2014
 
