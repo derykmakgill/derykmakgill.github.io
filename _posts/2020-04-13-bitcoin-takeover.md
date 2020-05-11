@@ -245,6 +245,12 @@ John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that hi
 
 Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
 
+In the thread about Replace-By-Fee, Justus Ranvier says Peter Todd is being [overly theoretical](https://bitcointalk.org/index.php?topic=179612.msg1879731#msg1879731) in his analysis of the dangers of zero-conf transactions.
+
+>It's as if you've spent too much time playing The Sims and forget that both merchants and pool operators are sentient, intelligent beings instead of automatons.
+>
+>If the risks of zero conf double spends are worth expending resources to reduce or eliminate then the merchants will find a way to get it done. 
+
 #### 17 May 2013
 
 Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to [leaked emails.](https://archive.is/PK1I1)
