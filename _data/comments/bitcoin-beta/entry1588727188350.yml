@@ -1,6 +1,0 @@
-_id: d067be80-8f35-11ea-8b9b-51b31d505469
-name: Deryk Makgill
-email: derykmakgill@gmail.com
-url: ''
-message: "The thing I was trying to wrap my head around for quite some time, thanks for so detailed explanation!\r\n\r\nTwo minor points:\r\n\r\n1. The following code in `run_ready_tasks`:\r\n\r\n```rust\r\nif !self.waker_cache.contains_key(&task_id) {\r\nself.waker_cache.insert(task_id, self.create_waker(task_id));\r\n }\r\nlet waker = self.waker_cache.get(&task_id).expect(\"should exist\");\r\n```\r\n - why not use the [Entry API](https://doc.rust-lang.org/std/collections/struct.BTreeMap.html#method.entry) instead?\r\n\r\n 2. \"it's both simpler and safer to instead implement the Arc-based Wake trait\" - the link on \"Wake\" leads to `wake` method on `Waker` - probably it should be [this trait](https://doc.rust-lang.org/nightly/alloc/task/trait.Wake.html) instead?"
-date: 1588727188
