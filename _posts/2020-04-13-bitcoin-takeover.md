@@ -347,6 +347,10 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 The conclusion to draw is unclear. Was John Dillon actually an intelligence agent like he claimed? Was he trying to harm Bitcoin or help it? Mike Hearn writes ["I'm not sure what this "leak" is trying to prove"](https://bitcointalk.org/index.php?topic=335658.msg3615820#msg3615820) and indeed it's hard to draw any firm opinion other than the fact that the small-block video was indeed funded by a self-proclaimed agent of the state.
 
+#### 08 April 2014
+
+Gavin Andresen [steps down as the lead developer for Bitcoin Core](https://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer) and passes the reins to Wladimir van der Laan.
+
 
 #### 26 May 2014
 
