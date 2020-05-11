@@ -350,7 +350,7 @@ Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-121
 
 #### 06 January 2015
 
-Mircea Pepescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
+Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
 
 >My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
 
