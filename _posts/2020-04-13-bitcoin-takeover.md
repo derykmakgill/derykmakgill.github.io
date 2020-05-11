@@ -1157,6 +1157,10 @@ According to CoinTelegraph, a hacker, or a hacking group, that goes by the onlin
 
 One commenter says that the attack made him [shut down his Bitcoin Classic node](https://np.reddit.com/r/Bitcoin_Classic/comments/47zglz/ddos_started_again_have_a_nice_day_guys/d0ha9j4/) because the attack was affecting his other services on his server.
 
+#### 03 March 2016
+
+Blockstream "contractor" and Core developer Luke Dashjr writes that ["manipulating public opinion is not censorship,"](https://www.reddit.com/r/technology/comments/48rac0/bitcoins_nightmare_scenario_has_come_to_pass/d0mlwmj/) all but acknowledging that there is a deliberate effort to control the narrative in Bitcoin.
+
 #### 05 March 2016
 
 Coinbase CEO Brian Armstrong says the [Core developers may be the biggest risk to Bitcoin](https://blog.coinbase.com/what-happened-at-the-satoshi-roundtable-6c11a10d8cdf#.qaggpgms9) in an article about the Satoshi Roundtable.
