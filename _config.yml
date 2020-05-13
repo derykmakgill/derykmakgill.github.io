@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. 
 
+permalink: pretty
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
