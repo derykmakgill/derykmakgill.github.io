@@ -1485,6 +1485,14 @@ Bitcoin Core developer and Blockstream Cofounder Matt Corallo submits a [filing]
 >
 >As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
 
+#### 26 September 2017
+
+An issue is opened on Github to [delist any company that signed the NYA.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1753) Cobra writes that they should [delist BitPay and Coinbase, any of their products, and issue an alert for potential customers.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1753#issuecomment-332300306)
+
+>I believe the main economic actors involved in this NYA takeover attempt (Coinbase & Bitpay) are still very committed to going through with it. Nothing has changed in the last month.
+>
+>For now, let's just remove any mention of Coinbase and Bitpay (and their associated products), and put out an alert telling users to BEWARE of Coinbase and Bitpay because they plan on switching over to something that we believe isn't actual Bitcoin. The alert can have instructions telling users how to get their BTC off these services and recommend alternative companies that are committed to using the real Bitcoin.
+
 #### 28 September 2017
 
 Cobra opens a Github issue for Bitcoin.org labeled [*Add Segwit2x Safety Alert.*](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824) The alert ostensibly warns users of hostile companies, but the list includes most of the oldest, most successful Bitcoin companies, and the real goal seems to be to scare or punish these companies for their stance on Segwit 2x.
