@@ -1475,6 +1475,39 @@ Bitcoin Core developer Eric Lombrozo [suggests it is illegal to support Segwit 2
 
 He is [asked what that means](https://twitter.com/MrChrisEllis/status/890989482522136576?s=20) but doesn't reply.
 
+#### 17 August 2017
+
+A Github issue is created for Bitcoin.org titled ["Copay malware to be removed"](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1750) accuses BitPay of fraud for supporting Segwit 2X.
+
+>Since Copay has decided to commit fraud by listing btc1 as Bitcoin and confuse users, it should be removed from the wallet page as it is now malware.
+
+Another related issue is titled ["Remove copay from the "Choose your Wallet" page."](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1751)
+
+Theymos then [bans BitPay services and all mentions from Bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1752) for supporting Segwit 2X in a pull-request the same day.
+
+>BitPay is fraudulently passing off btc1 as Bitcoin software to which people are required to upgrade. This is highly unethical and a violation of the bitcoin.org hard fork policy. Therefore, this pull request removes from bitcoin.org any references to BitPay and their software/services Copay and Bitcore.
+
+A Bitcoin miner who goes by checksum0 points out that [BitPay is one of the best wallets and they are simply keeping their agreement to support Segwit 2X.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1752#issuecomment-323240995)
+
+>You guys are discussing removing the most user-friendly wallet because they don't want to break an agreement they agreed on?
+
+Another commenter says that they will have to [ban almost everyone then from Bitcoin.org.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1752#issuecomment-323257363)
+
+>If Bitcoin.org is going to remove segwit2x supporters, why stop at Bitpay? They would need to remove from here: https://bitcoin.org/en/exchanges
+>
+> - Xapo
+> - All Chinese Exchanges
+> - The biggest japanese exchange
+> - Both US specific exchanges
+> - The only south american exchange
+> - The biggest mexican exchange
+> - Ripio
+> - All Middle Eastern exchanges
+>
+>Plus any exchanges that choose to follow the most PoW chain, so most likely at least half of the rest if not more.
+>
+>And if Bitpay and Coinbase aren't supported, you might as well remove the links to merchants accepting Bitcoin, since that's most of them.
+
 #### 22 August 2017
 
 Bitcoin Core developer Eric Lombrozo calls the Segwit 2x initiatve an 'cyberattack' on Bitcoin and [threatens legal and technical action against it.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-August/000259.html)
@@ -1535,6 +1568,19 @@ Bitcoin Core supporter Trace Mayer replies some days later that [anyone who supp
 >Past work great but #Bitcoin ethos about monetary sovereignty & Segwit2X supporters are enemies of that. We have a name: Benedict Arnold. 🚩📢
 
 He tags Gavin Andresen, Jihan Wu, Coinbase, Xapo, Jeff Garzik and others.
+
+#### 04 October 2017
+
+Theymos posts on a Github issue asking for people to [post information about companies](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1835) that should be added to the list of companies to warn people about on Bitcoin.org.
+
+Luke Dashjr responds that the Mike Belshe (CEO BitGo) was ["peddling dishonest 2X propaganda"](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1835#issuecomment-335298798) because he posted that the [2bm block increase was simple and safe to do.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-October/000369.html)
+
+>The 2x part of Segwit2x is, by any measure, a simpler technical
+change.   I would never say that changes carry no risk, but as far as risk
+goes, this one is really small.
+>
+>It's a good opportunity now to just move to 2mb blocks, and there are
+literally no technical objections left.
 
 #### 05 October 2017
 
