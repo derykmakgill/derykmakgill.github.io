@@ -349,6 +349,12 @@ Theymos writes in a now [deleted post](https://archive.is/YAYq6) that a handful 
 
 This is an important point to remember because we will see in the coming years that Theymos starts doing exactly the opposite with devestating effects.
 
+#### The same day
+
+Luke Dashjr creates a Github issue to [remove any mention of micropayments from Bitcoin.org.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/247#issue-19702662)
+
+>Bitcoin is not a micro-payment system. Until someone creates one that works with Bitcoin reasonably, it probably shouldn't be mentioned as a feature.
+
 #### 16 November 2013
 
 Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
@@ -1334,6 +1340,16 @@ Blockstream announces a ['defensive' patent strategy.](https://blockstream.com/2
 >Ensuring that permissionless innovation continues to be the driving force in our space requires an approach that not only accounts for the increasingly complex realities of today but also of tomorrow.
 >
 >That is why we are taking steps to implement a defensive patent strategy.
+
+#### 30 July 2016
+
+Another attempt to delist Coinbase from Bitcoin.org is [opened in an issue on Github.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1336) 
+
+Cobra replies that he supports getting rid of them for trying to [hurt Bitcoin by supporting Bitcoin XT and Bitcoin Classic.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1336#issuecomment-236382932)
+
+>I support removing them.
+>
+>Their leadership keeps making bad decisions and they always seem to be trying to undermine Bitcoin in some way (XT, Classic, Ethereum, etc). I don't know why any sane person would use their services.
 
 #### 06 October 2016
 
