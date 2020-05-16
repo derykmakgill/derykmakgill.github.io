@@ -1459,6 +1459,14 @@ In another Tweet, he explains that the fees make small online payments impractic
 
 >Back in 2016/2017, our users typically bought a few dollars at a time. It's difficult to get people excited about the blockchain when buying a few dollars of Bitcoin would cost nearly as much in transaction fees.
 
+#### 16 May 2017
+
+Rising Bitcoin fees force [Xapo and other exchanges to stop paying miner transaction fees for their users.](https://news.bitcoin.com/xapo-miner-fees-users-grueling-backlog/)
+
+>The news follows almost two weeks worth of backed up transactions filling the mempool. Currently, the backlog has over 200,000 unconfirmed transactions at the time of writing and has been this way for the past 36 hours.
+>
+>So far lots of people have been waiting over six hours to three days for one confirmation and have been complaining throughout forums. Furthermore, fees are higher than ever as May 16 reveals many people were paying upwards of $2 per transaction. Last week the average transaction cost for a normal 226KB tx was $1-1.50, and people still criticized wait times. People complaining about rising fees could be seen coming from both small blockers and big blockers over the past week.
+
 #### 19 May 2017
 
 Bitcoin Twitter personality Saifedean Ammous authors an article on the [*Economics of Bitcoin as a settlement network.*](https://thesaifhouse.wpcomstaging.com/2017/05/19/economics-of-bitcoin-as-a-settlement-network/)
