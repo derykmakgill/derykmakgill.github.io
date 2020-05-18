@@ -527,6 +527,8 @@ Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks g
 
 >But it would have lost critical momentum. It would have become the MySpace of digital currencies. The faithful would have lost a lot of faith, and businesses that were trying to bring Bitcoin to the mainstream would “pivot” towards something else. People who were motivated by Making The World A Better Place™ would conclude the ordinary people around them would never use their products, and so they’d leave.
 
+>I believe there are no situations in which Bitcoin can enter an overload situation and come out with its reputation and user base intact. Both would suffer heavily and as Bitcoin is the founder of the cryptocurrency concept, the idea itself would inevitably suffer some kind of negative repercussions.
+
 
 #### 12 June 2015
 
