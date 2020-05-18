@@ -521,6 +521,13 @@ In response to Gavin Andresen's argument that Bitcoin's block size must be raise
 
 He also asserts without evidence that Gavin Andresen is a mole for the US Government and threatens to "humiliatingly defeat" him.
 
+#### 07 May 2015
+
+Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
+
+>But it would have lost critical momentum. It would have become the MySpace of digital currencies. The faithful would have lost a lot of faith, and businesses that were trying to bring Bitcoin to the mainstream would “pivot” towards something else. People who were motivated by Making The World A Better Place™ would conclude the ordinary people around them would never use their products, and so they’d leave.
+
+
 #### 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
