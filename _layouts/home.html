@@ -8,8 +8,6 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
-<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
   
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -58,5 +56,7 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
+  
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 
 </div>
