@@ -1,0 +1,19 @@
+<form class="comment-form" method="POST" action="{{ site.staticman.api }}">
+<div class="comment-header">Your email address will not be published. Required fields are marked *.</div>
+  <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.permalink }}">
+  <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
+	<div class="textfield">
+		<input name="fields[name]" placeholder="Your name*" type="text"></div>
+  <div class="textfield"><input name="fields[email]" placeholder="Your email*" type="email"></div>
+<div class="textfield"><input name="fields[url]" pattern="https?://.+" placeholder="https://example.com" type="url"></div>
+<div class="textfield"><textarea name="fields[message]" placeholder="You can use Markdown syntax to format your comment. You can also upload images in markdown!*" rows="12" cols="36"></textarea></div>
+  <a class="text-link markdown-info" tabindex="-1" target="_blank" href="https://guides.github.com/features/mastering-markdown/" style="
+">
+            
+            Styling with Markdown is supported 
+    
+          </a><br>
+	
+	<input class="btn" type="submit" value="Comment">
+	<input type="reset" class="btn" value="Reset">
+</form>
