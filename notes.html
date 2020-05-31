@@ -4,7 +4,7 @@ title: Notes
 ---
 
 {% for notes in site.notes %}
-<div class="h-entry">
+<div class="h-entry note">
  <p class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ notes.date | date_to_xmlschema }}" itemprop="datePublished">
