@@ -1,0 +1,60 @@
+---
+layout: page
+title: Links
+---
+
+---
+layout: page
+title: Bookmarks
+pagination:
+  enabled: true
+  collection: links
+  sort_reverse: true
+---
+
+{% assign postsByYear = site.links | group_by_exp:"bookmark", "bookmark.date | date: '%Y'" %}
+
+{% for year in postsByYear reversed %}
+<h2>{{ year.name }}</h2>
+{% assign postsByMonth = year.items | group_by_exp:"bookmark", "bookmark.date | date: '%B'" %}
+
+{% for month in postsByMonth reversed %}
+<section class="flex-none-ns flex-m flex-l mb4 pv2 bb b--divider"><!-- start of month -->
+
+  <header class="w-100 w-20-ns mb4" aria-labelledby="month-{{ month.name }}">
+    <h3 id="month-{{ month.name }}" class="f3 f3-m f3-l ma0">{{ month.name }}</h3>
+  </header>
+  <div class="w-100 w-80-ns pl3-ns">
+
+    {% for item in month.items reversed %}
+    <article class="pb4 | h-entry">
+      <h4 class="f3 f3-m f3-l measure-wide-m measure-wide-l lh-title mt0 mb2">
+        <a class="u-bookmark-of h-cite" href="{{ item.link}}" rel="bookmark noopener" target="_blank"><span class="clip">Opens in new window</span> {{ item.title }} </a>
+      </h4>
+
+    
+
+      <time class="f5 mid-gray db mb2" datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%d %B, %Y" }}</time>
+
+      {% if item.excerpt %}
+      <div class="lh-copy measure-wide-m measure-wide-l mb2">
+        {{ item.excerpt }}
+      </div>
+      {% endif %}
+
+      {% if item.tags.size > 0 %}
+      <div>
+        <b>Tagged with:</b> {{ item.tags | array_to_sentence_string }}
+      </div>
+      {% endif %}
+
+    </article>
+
+    {% endfor %}
+
+  </div>
+</section><!-- end of month -->
+
+{% endfor %}
+
+{% endfor %}
