@@ -67,7 +67,6 @@ plugins:
 
 notes:
    output: true
-   permalink: /notes/:path/  
  
 # Configure Staticman Comments
 
