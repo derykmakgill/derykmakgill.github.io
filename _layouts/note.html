@@ -3,8 +3,42 @@ layout: default
 ---
 
 <div class="h-entry">
- <time class="dt-published">2013-03-07</time>: 
- <p class="p-content">
-  <a class="u-author" href="/">I</a> ate a cheese sandwich.
+  <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+    
+ <p class="p-content"> {{ content }}
  </p>
+ 
+  {% if page.image %}
+      <div class="post-image">
+        <a href="{{ page.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %}  
+ 
 </div>
+
+
+
+
