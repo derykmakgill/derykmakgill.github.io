@@ -1,4 +1,4 @@
 ---
-layout: note
+layout: page
 title: Notes
 ---
