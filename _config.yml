@@ -62,6 +62,12 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
+# Collections
+
+notes:
+   output: true
+   permalink: /notes/:path/  
+ 
 # Configure Staticman Comments
 
 staticman:
