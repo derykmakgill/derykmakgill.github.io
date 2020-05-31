@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="h-entry">
-  <p class="post-meta">
+  <h5 class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
@@ -21,7 +21,7 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}</h5>
     
  <p class="p-content"> {{ content }}
  </p>
