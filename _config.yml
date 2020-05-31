@@ -65,8 +65,10 @@ plugins:
  
 # Collections
 
-notes:
-   output: true
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
  
 # Configure Staticman Comments
 
