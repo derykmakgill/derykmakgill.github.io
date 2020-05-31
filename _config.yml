@@ -53,6 +53,7 @@ minima:
 header_pages:
  - notes.html
  - about.md
+ - links.md
  - support.md
  - contact.md
 
