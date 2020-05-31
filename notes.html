@@ -1,0 +1,16 @@
+---
+layout: page
+title: Notes
+---
+
+{% for notes in site.notes %}
+
+<a href="{{ themes.url | prepend: site.baseurl }}">
+  <h2>{{ notes.data }}</h2>
+</a>
+
+
+{% endfor %}  
+
+  
+
