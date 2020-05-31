@@ -4,16 +4,29 @@ title: Notes
 ---
 
 {% for notes in site.notes %}
-
+<div class="h-entry">
  <p class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
 {{ notes.date }}
    </a></p>
 
  <p class="p-content"> {{ notes.content }}
  </p>
-
+ 
+   {% if notes.image %}
+      <div class="post-image">
+        <a href="{{ notes.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ notes.image | relative_url }}" alt="{{ notes.alt }}">
+          
+        </a>
+       </div>  
+      {% endif %}
+ 
+</div>
 
 {% endfor %}  
 
   
+
 
