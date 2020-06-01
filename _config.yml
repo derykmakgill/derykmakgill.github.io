@@ -69,7 +69,7 @@ plugins:
 collections:
   notes:
     output: true
-    permalink: /notes/:path/
+    permalink: /notes/:year/:month/:day/:path/
   links:
     output: true
     permalink: /bookmarks/:year/:month/:title    
