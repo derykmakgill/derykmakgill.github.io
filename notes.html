@@ -10,7 +10,7 @@ title: Notes
  <h5 class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ notes.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ notes.date | date: date_format }}
+        {{ notes.date | date: date_to_rfc822 }}
       </time>
    </a></h5>
 
