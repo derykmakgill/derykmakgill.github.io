@@ -3,7 +3,7 @@ layout: page
 title: Notes
 ---
 
-{% assign notes = site.notes | sort: 'date' | reverse %}
+{% assign sorted = (site.notes | sort: 'date') | reverse %}
 {% for notes in site.notes %}
 <div class="h-entry note">
  <h5 class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
