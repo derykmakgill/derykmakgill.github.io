@@ -36,9 +36,3 @@ title: Notes
 
 
 
-{% assign notes = site.notes | sort: 'date' | reverse %}
-{% for notes in notes limit:4  %}
-  <div>
-      <a href="{{ notes.url | prepend: site.baseurl }}">{{ notes.date }}</a>
-  </div>
-{% endfor %}
