@@ -4,7 +4,7 @@ title: Notes
 ---
 
 {% assign sorted = (site.notes | sort: 'date') | reverse %}
-    {% for item in sorted %}
+{% for notes in site.notes %}
 
 <div class="h-entry note">
  <h5 class="post-meta"><a href="{{ notes.url | prepend: site.baseurl }}">
