@@ -73,13 +73,13 @@ layout: default
 
   <p>
     {% if prev %}
-      <a href="{{ prev.url }}" class="prev" title="{{ prev.date }}">&lt; Older</a>
+      <a href="{{ prev.url | relative_url }}" class="prev" title="{{ prev.date }}">&lt; Older</a>
     {% endif %}
     {% if prev and next %}
       <span> | </span>
     {% endif %}
     {% if next %}
-      <a href="{{ next.url }}" class="next" title="{{ next.date }}">Newer &gt;</a>
+      <a href="{{ next.url | relative_url }}" class="next" title="{{ next.date }}">Newer &gt;</a>
     {% endif %}
   </p>
 {% endif %}
