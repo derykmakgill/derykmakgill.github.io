@@ -7,9 +7,13 @@ tags:
 - research
 ---
 
-This is a long, working document that is nowhere near complete. I attempt to show through a chronology of primary source material that Bitcoin was systematically hijacked and directed against its original vision of scaling on-chain. 
+tl;dr: This is a long, working document that is nowhere near complete. I attempt to show through a chronology of primary source material that Bitcoin was systematically hijacked and directed against its original vision of scaling on-chain. 
 
 I do not claim that scaling on-chain is the proper way to scale Bitcoin, only that it was the way *intended* by Satoshi Nakamoto and early Bitcoiners, and that technical and economic arguments against scaling on-chain played a less important role in the eventual outcome than censorship, propaganda, etc.
+
+## Contents
+
+1. 
 
 #### 29 October 1995
 
