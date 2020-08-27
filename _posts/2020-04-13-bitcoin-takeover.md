@@ -1971,7 +1971,7 @@ Matt Corallo writes that the [worst part of Bitcoin's culture comes from some of
 
 Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
 
->I feel like this subject could get adequately covered as part of a broader article on consensusless decenteralized payment systems, but considering that lightning is the only such system with even moderately wide deployment and that there aren't a lot of secondary sources on the broader idea... that gets in the way of covering it that way.  There are a lot of bit-rotten obscure cryptocurrency articles that should probably be removed [https://en.wikipedia.org/wiki/Talk:Bitcoin_XT#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out_of_date,_should_this_be_deleted?]
+>I feel like this subject could get adequately covered as part of a broader article on consensusless decenteralized payment systems, but considering that lightning is the only such system with even moderately wide deployment and that there aren't a lot of secondary sources on the broader idea... that gets in the way of covering it that way.  There are a lot of bit-rotten obscure cryptocurrency articles that should probably be [removed](https://en.wikipedia.org/wiki/Talk:Bitcoin_XT#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out_of_date,_should_this_be_deleted?)
 
 #### 16 December 2019
 
