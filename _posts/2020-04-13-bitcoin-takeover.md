@@ -11,7 +11,7 @@ tl;dr: This is a long, working document that is nowhere near complete. I attempt
 
 I do not claim that scaling on-chain is the proper way to scale Bitcoin, only that it was the way *intended* by Satoshi Nakamoto and early Bitcoiners, and that technical and economic arguments against scaling on-chain played a less important role in the eventual outcome than censorship, propaganda, etc.
 
-## Contents
+### Contents
 
 1. 
 
